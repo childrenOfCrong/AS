@@ -3,7 +3,7 @@
 
 * [같은 숫자는 싫어!](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript), [[내답](https://gist.github.com/HTMLhead/a19d08d31b35f4ca8d917756657270c4)]
 
-- [완주하지  못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- [완주하지  못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576), [[내답](https://gist.github.com/HTMLhead/974650fa31a39e81c772e34462346872)]
 
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)
 
