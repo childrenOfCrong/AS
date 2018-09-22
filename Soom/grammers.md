@@ -30,3 +30,30 @@
 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12906)
 - 풀이: [같은 숫자는 싫어](https://gist.github.com/developersoom/3944febcfeb8509aa906af5b308a3e6f)
 
+## 2016년 180922
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)
+- 풀이: [2016년](https://gist.github.com/developersoom/b5fabbd75d15c56be943077747edbd3f)
+
+## 최대공약수와 최소공배수 180922
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)
+- 풀이: [최대공약수와 최소공배수](https://gist.github.com/developersoom/40c8a776b029cafffadca035eaeacc25)
+
+## 나누어 떨어지는 숫자배열 일
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript)
+- 풀이: [나누어 떨어지는 숫자배열]()
+
+## 문자열 내림차순으로 배치하기 월 
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)
+- 풀이: [문자열 내림차순으로 배치하기]()
+
+## 시저암호 화
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)
+- 풀이: [시저암호]()
+
+## 완주하지 못한 선수 수
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- 풀이: [완주하지 못한 선수]()
+
+## 무지의 먹방 라이브 목 
+- 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
+- 풀이: [무지의 먹방 라이브]()
