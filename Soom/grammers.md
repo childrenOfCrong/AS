@@ -38,9 +38,9 @@
 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)
 - 풀이: [최대공약수와 최소공배수](https://gist.github.com/developersoom/40c8a776b029cafffadca035eaeacc25)
 
-### 11. 일 - 나누어 떨어지는 숫자배열 
+### 11. 180923 - 나누어 떨어지는 숫자배열 
 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript)
-- 풀이: [나누어 떨어지는 숫자배열]()
+- 풀이: [나누어 떨어지는 숫자배열](https://gist.github.com/developersoom/c09d30e18754e72017d2e4da95d9985a)
 
 ### 12. 월 - 문자열 내림차순으로 배치하기 
 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)
