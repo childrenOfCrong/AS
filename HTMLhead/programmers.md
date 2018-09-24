@@ -5,7 +5,7 @@
 
 - [완주하지  못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 
-- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)
+- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript), [[내답](https://gist.github.com/HTMLhead/974650fa31a39e81c772e34462346872)]
 
 - [나누어 떨어지는 숫자배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript)
 
