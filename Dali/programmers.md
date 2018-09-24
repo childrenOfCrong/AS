@@ -6,5 +6,5 @@
 * [2016년](https://gist.github.com/amorfati0310/4028a345889e1ec2668f783219f2b896)
 * [문자열 내림차순으로 배치하기](https://gist.github.com/amorfati0310/829c68dc2b6b12685f35bc2058133f52)
 * [시저암호](https://gist.github.com/amorfati0310/e27f175658cec604434d241bef2d4eb2)
-* [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)
+* [최대공약수와 최소공배수](https://gist.github.com/amorfati0310/54391c3cffcad3fc1ce7066cb2858854)
 * [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
