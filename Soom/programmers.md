@@ -46,9 +46,9 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)
 풀이: [문자열 내림차순으로 배치하기](https://gist.github.com/developersoom/4382cac949289543cf75ff7728805e78)
 
-13. 화 - 
+13. 180925 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)
-풀이: [시저암호]()
+풀이: [시저암호](https://gist.github.com/developersoom/70894f94a6e711a8ed11f9794a4dcf8b)
 
 14. 수 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
