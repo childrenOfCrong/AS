@@ -50,9 +50,9 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)
 풀이: [시저암호](https://gist.github.com/developersoom/70894f94a6e711a8ed11f9794a4dcf8b)
 
-14. 수 - 
+14. 180926 - <<미완성>>
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
-풀이: [완주하지 못한 선수]()
+풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
 15. 목 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
