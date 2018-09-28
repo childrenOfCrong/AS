@@ -6,6 +6,8 @@ AlgorithmStudy
     1. 달리 : 1000
     1. 숨 : 0
     1. 헤드 : 0
+    1. 비센스 : 0
+    1. 토르코 : 0
 # 180921
 * 풀어야 할 알고리즘 문제
     1. [완주하지  못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
@@ -17,3 +19,7 @@ AlgorithmStudy
     1. [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
 
 * 이번 지각비 : 달리 1000원
+
+# 180928
+* 풀어야 할 알고리즘 문제
+    1. []
