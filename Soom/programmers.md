@@ -50,10 +50,33 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)
 풀이: [시저암호](https://gist.github.com/developersoom/70894f94a6e711a8ed11f9794a4dcf8b)
 
-14. 180926 - <<미완성>>
+14. 180929 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)
+풀이: [체육복](https://gist.github.com/developersoom/9f997bd64b5c0d1d1130d740c5db6aae) *<---- HELP!!!!!!!!!!*
+
+15. 일 - 
+문제: [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+
+16. 월 - 
+문제: [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+
+17. 화 - 
+문제: 소수찾기?
+
+18. 수 - 
+문제: [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
+
+19. 목 - 
+문제: [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+
+20. 금 - 
+[달리의 문제 1](https://repl.it/@bgando/stack-prompt)
+[달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+
+----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------<br>
+1. 180926 - <<미완성>>
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
-15. 목 - 
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
+2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
 풀이: [무지의 먹방 라이브]()
