@@ -25,3 +25,17 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 
 - [1008.js](https://www.acmicpc.net/problem/1008), [[내답](https://gist.github.com/HTMLhead/98a94c78fed9444ad8fa4804f4930a2f)]
 ## 2주차
+
+1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript), [[내답](https://gist.github.com/HTMLhead/4b5cf4278f1bc2efb48c823acd7738ec)]
+
+1. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+
+1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+
+1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+
+1. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
+
+1. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
+
+1. [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
