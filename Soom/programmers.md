@@ -52,7 +52,7 @@
 
 14. 180929 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)
-풀이: [체육복](https://gist.github.com/developersoom/9f997bd64b5c0d1d1130d740c5db6aae) *<---- HELP!!!!!!!!!!*
+풀이: [체육복](https://gist.github.com/developersoom/9f997bd64b5c0d1d1130d740c5db6aae)
 
 15. 일 - 
 문제: [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
