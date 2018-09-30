@@ -30,7 +30,7 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 
 1. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
 
-1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript), [[내답](https://gist.github.com/HTMLhead/b20121a7c5d1c71c747adc8861dfeef3)]
 
 1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
 
