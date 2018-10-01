@@ -34,7 +34,7 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 
 1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
 
-1. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
+1. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript), [[내답](https://gist.github.com/HTMLhead/59544a80f296e8adfd4a5d6dc6d75ad7)]
 
 1. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 
