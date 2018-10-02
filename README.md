@@ -11,7 +11,7 @@ AlgorithmStudy
     2. 2문제 뽑아오기
 
 * 총지각비
-    1. 달리 : 1000
+    1. 달리 : 2000
     2. 숨 : 0
     3. 헤드 : 0
     4. 비센스 : 0
@@ -46,6 +46,7 @@ AlgorithmStudy
     1. [소수찾기 알고리즘](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript) 함께 풀어보기
     
 # 181002
+* 소수찾기 알고리즘 미해결
 * 이번 지각비 :달리 1000원
     
 
