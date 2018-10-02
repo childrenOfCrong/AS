@@ -39,3 +39,5 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 1. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 
 1. [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+
+1. [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript), [[내답](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)]
