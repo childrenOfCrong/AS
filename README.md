@@ -42,8 +42,8 @@ AlgorithmStudy
   
 * 화요일에 해야 할 것
     1. Big(O)표현법 O
-    1. 다이나믹 프로그래밍으로 피보나치 만들어와서 설명해보기 
-    1. 소수찾기 알고리즘 함께 풀어보기
+    1. 다이나믹 프로그래밍으로 피보나치 만들어와서 설명해보기 O
+    1. [소수찾기 알고리즘](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript) 함께 풀어보기
     
 # 181002
 * 이번 지각비 :달리 1000원
