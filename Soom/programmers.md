@@ -54,22 +54,14 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)
 풀이: [체육복](https://gist.github.com/developersoom/9f997bd64b5c0d1d1130d740c5db6aae)
 
-15. 일 - 
-문제: [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+15. 181003 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
+풀이: [이상한 문자 만들기](https://gist.github.com/developersoom/8ecd5609031388bdd1484e3658aa6387)
 
-16. 월 - 
-문제: [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
-
-17. 화 - 
-문제: 소수찾기?
-
-18. 수 - 
-문제: [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
-
-19. 목 - 
+16. 목 - 
 문제: [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
 
-20. 금 - 
+17. 금 - 
 [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
 
@@ -78,5 +70,18 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
-2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
+2. 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
 풀이: [무지의 먹방 라이브]()
+
+3. 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+풀이: [N으로 표현]()
+
+4. 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)
+풀이: [소수찾기]()
+
+5. 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+풀이: [모의고사]()
