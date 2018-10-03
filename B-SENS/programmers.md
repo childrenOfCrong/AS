@@ -13,7 +13,7 @@
 
 ### 02회차
 
-1. [체육복]
+1. [체육복](https://gist.github.com/pdvonzoo/d5e298ad88bd36a6d7c0e4744c8de716)
 1. [N으로 표현]
 1. [모의고사](https://gist.github.com/pdvonzoo/2e346717bb0c283965fa70b56e6fe4b0)
 1. [오픈채팅방]
