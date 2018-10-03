@@ -46,7 +46,7 @@ AlgorithmStudy
     1. [소수찾기 알고리즘](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript) 함께 풀어보기
     
 # 181002
-* 소수찾기 알고리즘 미해결
+* 소수찾기 알고리즘 [해결](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)
 * 이번 지각비 :달리 1000원
     
 
