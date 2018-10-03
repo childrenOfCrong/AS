@@ -19,7 +19,7 @@
 1. [오픈채팅방]
 1. [이상한 문자 만들기](https://gist.github.com/pdvonzoo/aa83def1d199737eaf648805bcae1260)
 1. [달리의 문제 1]
-1. [달리의 문제 2]
+1. [달리의 문제 2](https://gist.github.com/pdvonzoo/90d7cc974338eb8b67c2923d545ace86)
 
 ### 피보나치
 
