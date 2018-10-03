@@ -70,18 +70,14 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
-2. 
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
+2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
 풀이: [무지의 먹방 라이브]()
 
-3. 
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+3. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
 풀이: [N으로 표현]()
 
-4. 
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)
+4. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)
 풀이: [소수찾기]()
 
-5. 
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+5. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
 풀이: [모의고사]()
