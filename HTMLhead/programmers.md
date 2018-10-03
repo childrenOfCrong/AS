@@ -32,7 +32,7 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 
 1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript), [[내답](https://gist.github.com/HTMLhead/b20121a7c5d1c71c747adc8861dfeef3)]
 
-1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript), [[내답](https://gist.github.com/HTMLhead/21bb4182cf0a31e2541d17e7aa572b44),수정필요.]
 
 1. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript), [[내답](https://gist.github.com/HTMLhead/59544a80f296e8adfd4a5d6dc6d75ad7)]
 
