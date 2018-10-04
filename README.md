@@ -48,5 +48,24 @@ AlgorithmStudy
 # 181002
 * 소수찾기 알고리즘 [해결](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)
 * 이번 지각비 :달리 1000원
-    
 
+# 181004
+* 풀어야 할 알고리즘 문제
+    1. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
+    1. [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
+    1. [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+    1. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
+    1. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+    1. [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+    1. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+    
+* 이번 지각비 : 0
+
+* 언젠가는 풀것
+    1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
+
+* 한글날에 할 것
+    1. 한글날까지 4문제를 푼다
+    1. 로 궁금한점이나 피드백을 달아준다
+    1. 금요일에 호눅스가 강의한 내용을 정리해서 gist로 올린다.
+    1. 궁금한점을 코멘트로 달아준다.
