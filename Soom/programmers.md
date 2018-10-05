@@ -58,12 +58,23 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
 풀이: [이상한 문자 만들기](https://gist.github.com/developersoom/8ecd5609031388bdd1484e3658aa6387)
 
-16. 목 - 
-문제: [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+16. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
 
-17. 금 - 
-[달리의 문제 1](https://repl.it/@bgando/stack-prompt)
-[달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+17. 181005 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12947)
+풀이: [하샤드 수](https://gist.github.com/developersoom/15a9d03bd246a882ea4054f76cce4f7f)
+
+18. [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+
+19. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
+
+20. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
+
+21. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+
+
+22. [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)  
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------<br>
 1. 180926 - <<미완성>>
@@ -81,3 +92,8 @@
 
 5. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
 풀이: [모의고사]()
+
+6. 문제: [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+
+7. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
+[달리의 문제 2](https://repl.it/@bgando/queue-prompt)
