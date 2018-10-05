@@ -46,7 +46,7 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 * 강의
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
-*풀어야할 알고리즘 문제
+* 풀어야할 알고리즘 문제
     * [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)[[내답](https://gist.github.com/HTMLhead/2452951387b30b5c0895b452abb62943)]
     
     * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
