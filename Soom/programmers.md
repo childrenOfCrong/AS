@@ -58,11 +58,11 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)
 풀이: [이상한 문자 만들기](https://gist.github.com/developersoom/8ecd5609031388bdd1484e3658aa6387)
 
-16. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
-
-17. 181005 - 
+16. 181005 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12947)
 풀이: [하샤드 수](https://gist.github.com/developersoom/15a9d03bd246a882ea4054f76cce4f7f)
+
+17. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
 
 18. [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
 
