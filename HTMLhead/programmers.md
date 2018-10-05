@@ -26,18 +26,37 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 - [1008.js](https://www.acmicpc.net/problem/1008), [[내답](https://gist.github.com/HTMLhead/98a94c78fed9444ad8fa4804f4930a2f)]
 ## 2주차
 
-1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript), [[내답](https://gist.github.com/HTMLhead/4b5cf4278f1bc2efb48c823acd7738ec)]
+* [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript), [[내답](https://gist.github.com/HTMLhead/4b5cf4278f1bc2efb48c823acd7738ec)]
 
-1. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+* [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
 
-1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript), [[내답](https://gist.github.com/HTMLhead/b20121a7c5d1c71c747adc8861dfeef3)]
+* [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript), [[내답](https://gist.github.com/HTMLhead/b20121a7c5d1c71c747adc8861dfeef3)]
 
-1. [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript), [[내답](https://gist.github.com/HTMLhead/21bb4182cf0a31e2541d17e7aa572b44),수정필요.]
+* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript), [[내답](https://gist.github.com/HTMLhead/21bb4182cf0a31e2541d17e7aa572b44),수정필요.]
 
-1. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript), [[내답](https://gist.github.com/HTMLhead/59544a80f296e8adfd4a5d6dc6d75ad7)]
+* [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript), [[내답](https://gist.github.com/HTMLhead/59544a80f296e8adfd4a5d6dc6d75ad7)]
 
-1. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
+* [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 
-1. [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+* [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
 
-1. [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript), [[내답](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)]
+* [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript), [[내답](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)]
+
+## 3주차
+* 강의
+* [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+
+*풀어야할 알고리즘 문제
+    * [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)[[내답](https://gist.github.com/HTMLhead/2452951387b30b5c0895b452abb62943)]
+    
+    * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
+    
+    * [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+    
+    * [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
+    
+    * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+    
+    * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+    
+    * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
