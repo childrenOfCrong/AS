@@ -10,10 +10,10 @@
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript), [[내답](https://gist.github.com/HTMLhead/974650fa31a39e81c772e34462346872)]
 
 - [나누어 떨어지는 숫자배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript), [[내답](https://gist.github.com/HTMLhead/0ff4989c5d4d853a219e9307c940029b
-)]
+  )]
 
 - [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript), [[내답](
-https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
+  https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 
 - [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript), [[내답](https://gist.github.com/HTMLhead/ad066b88fed7085d28f4adc5f070141a)]
 
@@ -47,16 +47,17 @@ https://gist.github.com/HTMLhead/7e19027afd35d5c40db8ebfee8f4de66)]
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 * 풀어야할 알고리즘 문제
-    * [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)[[내답](https://gist.github.com/HTMLhead/2452951387b30b5c0895b452abb62943)]
-    
+    * [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript), [[내답](https://gist.github.com/HTMLhead/2452951387b30b5c0895b452abb62943)]
+
     * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
-    
-    * [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
-    
+
+    * [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript), [[내답](https://gist.github.com/HTMLhead/e66d52f297410db20af08cd7e29784d6)]
+
     * [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
-    
+
     * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
-    
+
     * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
-    
+
     * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+
