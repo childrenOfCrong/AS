@@ -53,7 +53,7 @@
 
     * [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript), [[내답](https://gist.github.com/HTMLhead/e66d52f297410db20af08cd7e29784d6)]
 
-    * [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
+    * [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript), [[내답](https://gist.github.com/HTMLhead/1d4181fd3248c4398fd5b72fb5c4e844)]
 
     * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
