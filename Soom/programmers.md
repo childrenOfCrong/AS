@@ -71,8 +71,9 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
 풀이: [정수 내림차순으로 배치하기](https://gist.github.com/developersoom/70b104a567211191f9e43c47cd3b0925)
 
-19. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
-
+19. 181007 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
+풀이: [문자열 내 마음대로 정리하기](https://gist.github.com/developersoom/a8b545a2f2c1473d4ab346383fd9aaaf) -- 실패ㅠ.ㅠ
 
 20. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
