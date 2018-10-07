@@ -67,9 +67,11 @@
 풀이: 
 [직사각형 별찍기](https://gist.github.com/developersoom/5edb7002bed420f4b1ceb4503cd262cc)
 
-18. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
+18. 181007 -
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+풀이: [정수 내림차순으로 배치하기](https://gist.github.com/developersoom/70b104a567211191f9e43c47cd3b0925)
 
-19. [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+19. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
 
 
 20. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
