@@ -26,3 +26,13 @@
 1. [for문]
 1. [재귀]
 1. [다이나믹프로그래밍]
+
+### 03회차
+
+1. [문자열 내 마음대로 정리하기]
+1. [탑]
+1. [정수 내림차순으로 배치하기](https://gist.github.com/pdvonzoo/cbe383a73c3ed882e7b68d8df0d7c8dd)
+1. [직사각형 별찍기]
+1. [비밀지도]
+1. [하샤드 수](https://gist.github.com/pdvonzoo/1fc4ce9fbfc319caee6add0d88739aea)
+1. [폰켓몬]
