@@ -75,15 +75,18 @@
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
 풀이: [문자열 내 마음대로 정리하기](https://gist.github.com/developersoom/a8b545a2f2c1473d4ab346383fd9aaaf)
 
-20. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+20. 181008 -
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42588) 풀이: [탑](https://gist.github.com/developersoom/031ea7be9cdd54d48d605ec4c7e2a6e6) 
+
+21. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
 
-21. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+22. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 
+<br>
+----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
+<br>
 
-22. [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)  
-
------------------------ 못 푼 문제 & 다시 풀어볼 문제 -----------------------<br>
 1. 180926 - <<미완성>>
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
