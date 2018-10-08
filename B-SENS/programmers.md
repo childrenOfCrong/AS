@@ -35,4 +35,4 @@
 1. [직사각형 별찍기](https://gist.github.com/pdvonzoo/0344daf6a78693f1897a15cb0236fe13)
 1. [비밀지도]
 1. [하샤드 수](https://gist.github.com/pdvonzoo/1fc4ce9fbfc319caee6add0d88739aea)
-1. [폰켓몬]
+1. [폰켓몬](https://gist.github.com/pdvonzoo/0c73dc1fcf8ecc8e95adfb38f667bf55)
