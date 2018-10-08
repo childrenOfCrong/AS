@@ -73,7 +73,7 @@
 
 19. 181007 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
-풀이: [문자열 내 마음대로 정리하기](https://gist.github.com/developersoom/a8b545a2f2c1473d4ab346383fd9aaaf) -- 실패ㅠ.ㅠ
+풀이: [문자열 내 마음대로 정리하기](https://gist.github.com/developersoom/a8b545a2f2c1473d4ab346383fd9aaaf)
 
 20. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
