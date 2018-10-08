@@ -32,7 +32,7 @@
 1. [문자열 내 마음대로 정리하기]
 1. [탑]
 1. [정수 내림차순으로 배치하기](https://gist.github.com/pdvonzoo/cbe383a73c3ed882e7b68d8df0d7c8dd)
-1. [직사각형 별찍기]
+1. [직사각형 별찍기](https://gist.github.com/pdvonzoo/0344daf6a78693f1897a15cb0236fe13)
 1. [비밀지도]
 1. [하샤드 수](https://gist.github.com/pdvonzoo/1fc4ce9fbfc319caee6add0d88739aea)
 1. [폰켓몬]
