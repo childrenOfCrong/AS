@@ -29,7 +29,7 @@
 
 ### 03회차
 
-1. [문자열 내 마음대로 정리하기]
+1. [문자열 내 마음대로 정리하기](https://gist.github.com/pdvonzoo/0c7b5a7fd6bc9ecdf24cbf645c407ee7)
 1. [탑]
 1. [정수 내림차순으로 배치하기](https://gist.github.com/pdvonzoo/cbe383a73c3ed882e7b68d8df0d7c8dd)
 1. [직사각형 별찍기](https://gist.github.com/pdvonzoo/0344daf6a78693f1897a15cb0236fe13)
