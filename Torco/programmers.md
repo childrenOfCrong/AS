@@ -1,6 +1,7 @@
 알고리즘 스터디
 ---
 
+2018-09-28
 - [피보나치 수열]
 - [체육복]
 - N으로 표현
@@ -10,8 +11,19 @@
 - 달리의 문제 1
 - 달리의 문제 2
 
+2018-10-04
+- [문자열 내 마음대로 정리하기]
+- 탑
+- 정수 내림차순으로 배치하기
+- 직사각형 별찍기
+- 비밀지도
+- 하샤드 수
+- 폰켓몬
+
 [피보나치 수열]: https://gist.github.com/cohily12/27cd16817c1299694a19a8c7e76966e9
 [체육복]: https://gist.github.com/cohily12/837c77b95fedd16a58703c8ab0faa4c6
 [모의고사]: https://gist.github.com/cohily12/bb6cb26400df069baf09f50b857e72be
 [오픈채팅방]: https://gist.github.com/cohily12/2786d727d8f5a98dc1781560edcedf1c
 [이상한 문자 만들기]: https://gist.github.com/cohily12/bed3d91da11e257a3352908cf0972126
+
+[문자열 내 마음대로 정리하기]: https://gist.github.com/cohily12/9cee224aeacef4b3103f2393cc20b194
