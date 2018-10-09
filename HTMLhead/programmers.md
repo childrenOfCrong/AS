@@ -57,7 +57,7 @@
 
     * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
-    * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+    * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947), [[내답](https://gist.github.com/HTMLhead/e5e610674a8031a5ead5892503d35947)]
 
     * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 
