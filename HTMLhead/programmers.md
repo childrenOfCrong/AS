@@ -55,7 +55,7 @@
 
     * [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript), [[내답](https://gist.github.com/HTMLhead/1d4181fd3248c4398fd5b72fb5c4e844)]
 
-    * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+    * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681), [[내답](https://gist.github.com/HTMLhead/6fdda2e71a1e884c7ebf8e62a0d5b2d5)]
 
     * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947), [[내답](https://gist.github.com/HTMLhead/e5e610674a8031a5ead5892503d35947)]
 
