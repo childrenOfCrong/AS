@@ -39,3 +39,19 @@ const fibMemo = (n, cache = [0,1,1])=>{
 console.log(fibMemo(100))
 
   ```
+
+
+  # 181004
+* 풀어야 할 알고리즘 문제
+    1. [문자열 내 마음대로 정리하기](https://gist.github.com/amorfati0310/8716a9a88c513ff6519d9a6d517ba8c2)
+    1. [탑](https://gist.github.com/amorfati0310/c5f96e3d81d6e9f2081364b41b7650f8)
+    1. [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)
+    1. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)
+    1. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+    1. [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+    1. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+    
+* 이번 지각비 : 0
+
+* 언젠가는 풀것
+    1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
