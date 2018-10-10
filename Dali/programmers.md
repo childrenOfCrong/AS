@@ -47,11 +47,11 @@ console.log(fibMemo(100))
     1. [탑](https://gist.github.com/amorfati0310/c5f96e3d81d6e9f2081364b41b7650f8)
     1. [정수 내림차순으로 배치하기](https://gist.github.com/amorfati0310/49f20c73fd8b66cbf215ffbb4b09d6fb)
     1. [직사각형 별찍기](https://gist.github.com/amorfati0310/ed201cd4c63f42a2ba1e1212b35d5966)
-    1. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
-    1. [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
-    1. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+    1. [비밀지도](https://gist.github.com/amorfati0310/77f98004a693310b4d5a73dcefa59b14)
+    1. [하샤드 수](https://gist.github.com/amorfati0310/10f9f3e1964df05552be6cb719826643)
+    1. [폰켓몬](https://gist.github.com/amorfati0310/94b34f7cdc267751b8bc101b03f180b8)
     
-* 이번 지각비 : 0
 
-* 언젠가는 풀것
+
+### next 
     1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
