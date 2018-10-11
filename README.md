@@ -69,3 +69,15 @@ AlgorithmStudy
     1. 코멘트로 궁금한점이나 피드백을 달아준다.
     1. 금요일에 호눅스가 강의한 내용을 정리해서 gist로 올린다.
     1. 궁금한점을 코멘트로 달아준다.
+    
+# 181011
+* 풀어야 할 알고리즘 문제
+    1. [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
+    1. [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
+    1. [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
+    1. [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
+    1. [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+    1. [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
+    1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+    
+ 
