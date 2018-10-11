@@ -81,7 +81,8 @@
 21. 181011 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/1845) 풀이: [폰켓몬](https://gist.github.com/developersoom/ea5a64ec8e9549d1026f482898da71dc)
 
-22. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+22. 181011 -
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17681) 풀이: [비밀지도](https://gist.github.com/developersoom/68525875996913d8254f77f948358402)
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
