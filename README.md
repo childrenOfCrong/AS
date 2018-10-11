@@ -80,4 +80,7 @@ AlgorithmStudy
     1. [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
     1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
     
+* 화요일까지 해야 할 것
+    1. Set에대해 공부해보기
+    
  
