@@ -84,6 +84,10 @@
 22. 181011 -
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17681) 풀이: [비밀지도](https://gist.github.com/developersoom/68525875996913d8254f77f948358402)
 
+23. 181022 - 
+문제: [백준](https://www.acmicpc.net/problem/9012) 풀이: [괄호](https://gist.github.com/developersoom/2ad28be52505bb990609914b798c36fd)
+
+
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
