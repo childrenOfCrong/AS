@@ -61,3 +61,20 @@
 
   * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [[내답](https://gist.github.com/HTMLhead/45306f84ed582b57797ad2d77de23bb5)]
 
+## 4주차
+### 강의
+  * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript)
+### 풀어야 할 알고리즘 문제
+  * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
+
+  * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
+
+  * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
+
+  * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
+
+  * [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+
+  * [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
+  
+  * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
