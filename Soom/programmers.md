@@ -87,6 +87,8 @@
 23. 181022 - 
 문제: [백준](https://www.acmicpc.net/problem/9012) 풀이: [괄호](https://gist.github.com/developersoom/2ad28be52505bb990609914b798c36fd)
 
+24. 181022-
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript) 풀이: [쇠막대기](https://gist.github.com/developersoom/6320503428e99e7cecc6db84b42ba337)
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
