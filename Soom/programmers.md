@@ -84,10 +84,10 @@
 22. 181011 -
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17681) 풀이: [비밀지도](https://gist.github.com/developersoom/68525875996913d8254f77f948358402)
 
-23. 181022 - 
+23. 181012 - 
 문제: [백준](https://www.acmicpc.net/problem/9012) 풀이: [괄호](https://gist.github.com/developersoom/2ad28be52505bb990609914b798c36fd)
 
-24. 181022-
+24. 181012-
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript) 풀이: [쇠막대기](https://gist.github.com/developersoom/6320503428e99e7cecc6db84b42ba337)
 
 25. 문제: [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
