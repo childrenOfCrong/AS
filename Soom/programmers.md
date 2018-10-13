@@ -87,12 +87,15 @@
 23. 181012 - 
 문제: [백준](https://www.acmicpc.net/problem/9012) 풀이: [괄호](https://gist.github.com/developersoom/2ad28be52505bb990609914b798c36fd)
 
-24. 181012-
+24. 181012 -
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript) 풀이: [쇠막대기](https://gist.github.com/developersoom/6320503428e99e7cecc6db84b42ba337)
 
-25. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript) 풀이: [콜라츠 추측](https://gist.github.com/developersoom/1a3083d657d63a7c6e96262542ccaac0)
+25. 181013- 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript) 풀이: [콜라츠 추측](https://gist.github.com/developersoom/1a3083d657d63a7c6e96262542ccaac0)
 
-26. 문제: [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
+26. 181013 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript) 풀이: [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/developersoom/318c50f5d9392a58ef078a890bbcf343)
+
 27. 문제: [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
 28. 문제: [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
 29. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
