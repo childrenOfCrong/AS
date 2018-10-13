@@ -96,7 +96,10 @@
 26. 181013 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript) 풀이: [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/developersoom/318c50f5d9392a58ef078a890bbcf343)
 
-27. 문제: [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
+27. 181013 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
+문제: [다음 큰 숫자](https://gist.github.com/developersoom/b9aa162c2f4f26e2eb4f866198a662a0)
+
 28. 문제: [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
 29. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 30. 문제: [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
