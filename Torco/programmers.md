@@ -20,6 +20,14 @@
 - [하샤드 수]
 - [폰켓몬]
 
+2018-10-12
+- [콜라츠 추측]
+- [x만큼 간격이 있는 n개의 숫자]
+- [다음 큰 숫자]
+- [124 나라의 숫자]
+- [가장 큰 정사각형]
+- [피보나치 복습]
+- [실패율]
 ------------------------------
 
 알고리즘 공부
@@ -44,3 +52,9 @@
 [비밀지도]: https://gist.github.com/cohily12/c67ce9a97ca3b6df3340aa8bcc25d787
 [하샤드 수]: https://gist.github.com/cohily12/43bba158b8f0bc2bb72402182aec105f
 [폰켓몬]: https://gist.github.com/cohily12/f3945f7200a62c9e6149043ee525e80b
+
+[콜라츠 추측]: https://gist.github.com/cohily12/52ff64dc8a6b3eba73640e69d65edf8a
+[x만큼 간격이 있는 n개의 숫자]: https://gist.github.com/cohily12/18dd25a92ce714d3720e705be6357851
+[다음 큰 숫자]: https://gist.github.com/cohily12/730959c9f783ea3b78290b205e0e7ca8
+[124 나라의 숫자]
+[피보나치 복습]: https://gist.github.com/cohily12/2a9933cb12ff5d7e12fc4f4b93994d2f
