@@ -90,7 +90,8 @@
 24. 181012-
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript) 풀이: [쇠막대기](https://gist.github.com/developersoom/6320503428e99e7cecc6db84b42ba337)
 
-25. 문제: [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
+25. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript) 풀이: [콜라츠 추측](https://gist.github.com/developersoom/1a3083d657d63a7c6e96262542ccaac0)
+
 26. 문제: [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
 27. 문제: [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
 28. 문제: [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
