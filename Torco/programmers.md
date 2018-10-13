@@ -56,5 +56,4 @@
 [콜라츠 추측]: https://gist.github.com/cohily12/52ff64dc8a6b3eba73640e69d65edf8a
 [x만큼 간격이 있는 n개의 숫자]: https://gist.github.com/cohily12/18dd25a92ce714d3720e705be6357851
 [다음 큰 숫자]: https://gist.github.com/cohily12/730959c9f783ea3b78290b205e0e7ca8
-[124 나라의 숫자]
 [피보나치 복습]: https://gist.github.com/cohily12/2a9933cb12ff5d7e12fc4f4b93994d2f
