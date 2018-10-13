@@ -25,10 +25,11 @@
 알고리즘 공부
 - [기능개발]
 - [쇠막대기]
-
+- [H-index]
 
 [기능개발]: https://gist.github.com/cohily12/63a3e5fda521ce524c561f98f5a66d0b
 [쇠막대기]: https://gist.github.com/cohily12/9decafe75046334ab471005af39a8be4
+[H-index]: https://gist.github.com/cohily12/503ca570df45d75ddd41dbdaf7cbfff9
 
 [피보나치 수열]: https://gist.github.com/cohily12/27cd16817c1299694a19a8c7e76966e9
 [체육복]: https://gist.github.com/cohily12/837c77b95fedd16a58703c8ab0faa4c6
