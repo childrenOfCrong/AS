@@ -65,7 +65,7 @@
 ### 강의
   * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=javascript)
 ### 풀어야 할 알고리즘 문제
-  * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
+  * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript), [[내답](https://gist.github.com/HTMLhead/60dd1309365e815b7382e4b8757c0a4a)]
 
   * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
 
