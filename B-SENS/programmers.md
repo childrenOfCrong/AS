@@ -36,3 +36,14 @@
 1. [비밀지도]()
 1. [하샤드 수](https://gist.github.com/pdvonzoo/1fc4ce9fbfc319caee6add0d88739aea)
 1. [폰켓몬](https://gist.github.com/pdvonzoo/0c73dc1fcf8ecc8e95adfb38f667bf55)
+
+
+풀어야 할 알고리즘 문제
+
+1. [콜라츠 추측](https://gist.github.com/pdvonzoo/fa9f8de91531b59a3e457989599183ec)
+1. x만큼 간격이 있는 n개의 숫자
+1. 다음 큰 숫자
+1. 124 나라의 숫자
+1. 가장 큰 정사각형
+1. 피보나치 복습
+1. 실패율
