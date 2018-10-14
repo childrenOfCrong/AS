@@ -41,7 +41,7 @@
 풀어야 할 알고리즘 문제
 
 1. [콜라츠 추측](https://gist.github.com/pdvonzoo/fa9f8de91531b59a3e457989599183ec)
-1. x만큼 간격이 있는 n개의 숫자
+1. [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/pdvonzoo/69ac12f62941cc32b33b8aac8ae95974)
 1. 다음 큰 숫자
 1. 124 나라의 숫자
 1. 가장 큰 정사각형
