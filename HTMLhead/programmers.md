@@ -67,7 +67,7 @@
 ### 풀어야 할 알고리즘 문제
   * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript), [[내답](https://gist.github.com/HTMLhead/60dd1309365e815b7382e4b8757c0a4a)]
 
-  * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
+  * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript), [[내답](https://gist.github.com/HTMLhead/6461eadd9b6219d87740263f8319390f)]
 
   * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
 
