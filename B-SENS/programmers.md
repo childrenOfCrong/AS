@@ -42,7 +42,7 @@
 
 1. [콜라츠 추측](https://gist.github.com/pdvonzoo/fa9f8de91531b59a3e457989599183ec)
 1. [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/pdvonzoo/69ac12f62941cc32b33b8aac8ae95974)
-1. 다음 큰 숫자
+1. [다음 큰 숫자](https://gist.github.com/pdvonzoo/e6e3ff55daef640e1f8b2ed21fe8d8d8)
 1. 124 나라의 숫자
 1. 가장 큰 정사각형
 1. 피보나치 복습
