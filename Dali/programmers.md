@@ -55,3 +55,17 @@ console.log(fibMemo(100))
 
 ### next 
     1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
+
+
+
+### 10월 2주차 문제
+    1. [콜라츠 추측](https://gist.github.com/amorfati0310/58193aa3cf57675c074912a6a3946692)
+    1. [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/amorfati0310/19a48ea971c3785379ddf5319c256963)
+    1. [다음 큰 숫자](https://gist.github.com/amorfati0310/c12d34789e6eca6bd707559a6c9074f0)
+    1. [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
+    1. [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+    1. [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
+    1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+    
+* 화요일까지 해야 할 것
+    1. Set에대해 공부해보기
