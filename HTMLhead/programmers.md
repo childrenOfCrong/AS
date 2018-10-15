@@ -78,3 +78,7 @@
   * [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
   
   * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+
+### 자존감 회복 문제
+
+  * [평균구하기](https://gist.github.com/HTMLhead/0e34f77b846fc687899b35996179318a)
