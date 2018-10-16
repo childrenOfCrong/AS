@@ -57,3 +57,4 @@
 [x만큼 간격이 있는 n개의 숫자]: https://gist.github.com/cohily12/18dd25a92ce714d3720e705be6357851
 [다음 큰 숫자]: https://gist.github.com/cohily12/730959c9f783ea3b78290b205e0e7ca8
 [피보나치 복습]: https://gist.github.com/cohily12/2a9933cb12ff5d7e12fc4f4b93994d2f
+[124 나라의 숫자]: https://gist.github.com/cohily12/6c779cca6dd59761bb33de2fe7d0e516
