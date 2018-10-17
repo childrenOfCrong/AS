@@ -69,7 +69,7 @@
 
   * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript), [[내답](https://gist.github.com/HTMLhead/6461eadd9b6219d87740263f8319390f)]
 
-  * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)
+  * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript), [[내답](https://gist.github.com/HTMLhead/a5a503b53cc0b86551eea8a9cc1645fa)]
 
   * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)
 
