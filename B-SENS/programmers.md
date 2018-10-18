@@ -46,4 +46,4 @@
 1. [124 나라의 숫자](https://gist.github.com/pdvonzoo/5d6a71044710c18845946143034ea409)
 1. [가장 큰 정사각형](https://gist.github.com/pdvonzoo/b50ec807323fcc02f289c5085a582ae2)
 1. [피보나치 복습](https://gist.github.com/pdvonzoo/afe2974e0cbaeb3fe34a3b74dfebe64c)
-1. [실패율]()
+1. [실패율](https://gist.github.com/pdvonzoo/52ee915215de4d1bfaae78586bac2f77)
