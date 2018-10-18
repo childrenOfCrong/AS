@@ -1,5 +1,3 @@
-### level01
-
 ### 01회차
 
 1. [disLikeSameNumber]
