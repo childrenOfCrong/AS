@@ -58,3 +58,4 @@
 [다음 큰 숫자]: https://gist.github.com/cohily12/730959c9f783ea3b78290b205e0e7ca8
 [피보나치 복습]: https://gist.github.com/cohily12/2a9933cb12ff5d7e12fc4f4b93994d2f
 [124 나라의 숫자]: https://gist.github.com/cohily12/6c779cca6dd59761bb33de2fe7d0e516
+[실패율]: https://gist.github.com/cohily12/d309f12143ef50207f1bb2f50d1a2568
