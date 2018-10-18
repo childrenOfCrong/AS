@@ -75,7 +75,7 @@
 
   * [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
-  * [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)
+  * [피보나치 복습](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript), [[내답](https://gist.github.com/HTMLhead/e2f02641509c81c73a4e09e28257afb8)]
   
   * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
 
