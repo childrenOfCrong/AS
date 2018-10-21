@@ -106,9 +106,16 @@
 29. 181015 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript) 풀이: [피보나치 수](https://gist.github.com/developersoom/c88b1343b68911522b9177142ea71fe1)
 
-30. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+30. 181021 - 
+문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/developersoom/adab19f6603c567600f8a5aaf3e10794)
 
-31. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+31. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+
+32. 문제: [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+
+33. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+
+34. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
