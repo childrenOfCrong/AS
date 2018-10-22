@@ -28,6 +28,11 @@
 - [가장 큰 정사각형]
 - [피보나치 복습]
 - [실패율]
+
+2018-10-18
+- 프린트
+- [올바른 괄호]
+- 위장
 ------------------------------
 
 알고리즘 공부
@@ -59,3 +64,5 @@
 [피보나치 복습]: https://gist.github.com/cohily12/2a9933cb12ff5d7e12fc4f4b93994d2f
 [124 나라의 숫자]: https://gist.github.com/cohily12/6c779cca6dd59761bb33de2fe7d0e516
 [실패율]: https://gist.github.com/cohily12/d309f12143ef50207f1bb2f50d1a2568
+
+[올바른 괄호]: https://gist.github.com/cohily12/a07657b756c0522450e711046b510ad4
