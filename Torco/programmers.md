@@ -30,7 +30,7 @@
 - [실패율]
 
 2018-10-18
-- 프린트
+- [프린트]
 - [올바른 괄호]
 - [위장]
 ------------------------------
@@ -67,3 +67,4 @@
 
 [올바른 괄호]: https://gist.github.com/cohily12/a07657b756c0522450e711046b510ad4
 [위장]: https://gist.github.com/cohily12/21fae1e829976653734982b87be33e41
+[프린트]: https://gist.github.com/cohily12/4545a8e660502ec22b06f6c3f3869207
