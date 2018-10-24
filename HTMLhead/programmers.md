@@ -88,7 +88,7 @@
 
   * [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
-  * [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+  * [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript), [[내답](https://gist.github.com/HTMLhead/972a709c7ed39f285f65aabae2cf00e0)]
 
   * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript), [[내답](https://gist.github.com/HTMLhead/b13cb04ee5aeed292f1f6e414bf21dae)]
 
