@@ -46,7 +46,7 @@
 1. [피보나치 복습](https://gist.github.com/pdvonzoo/afe2974e0cbaeb3fe34a3b74dfebe64c)
 1. [실패율](https://gist.github.com/pdvonzoo/52ee915215de4d1bfaae78586bac2f77)
 
-### 05
+### 05회차
 
 1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
 1. [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
