@@ -111,7 +111,7 @@
 
 31. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
 
-32. 문제: [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+32. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript) 풀이: [위장](https://gist.github.com/developersoom/9eede54b1e0208eba52d66cc4901a9dc)
 
 33. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
