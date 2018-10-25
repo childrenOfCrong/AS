@@ -92,4 +92,4 @@
 
   * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript), [[내답](https://gist.github.com/HTMLhead/b13cb04ee5aeed292f1f6e414bf21dae)]
 
-  * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+  * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript), [[내답](https://gist.github.com/HTMLhead/32763fb734bc5c98352a31af811b1a07)]
