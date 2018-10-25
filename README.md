@@ -84,10 +84,15 @@ AlgorithmStudy
     1. Set에대해 공부해보기
     
  
- # 181018
- * 풀어야 할 알고리즘 문제
+# 181018
+* 풀어야 할 알고리즘 문제
     1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
     1. [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
     1. [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
     1. [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript)
     1. [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+    
+# 181025
+* 풀어야 할 알고리즘 문제
+    1. [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2까지 해결하기.
+    1. [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
