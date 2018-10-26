@@ -74,14 +74,14 @@ console.log(fibMemo(100));
 
 1. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) 풀이 : [실패율](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
 
-1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/amorfati0310/e5c4909e6cca454accea80d9af809221)
+1. 문제: [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/amorfati0310/e5c4909e6cca454accea80d9af809221)
 
 1. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
    풀이: [풀이](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
 
 ### 아직 싱크 맞춰야 될 문제들
 
-1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+1. 문제: [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
 
 1. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
