@@ -69,3 +69,42 @@ console.log(fibMemo(100));
 - 화요일까지 해야 할 것
 
 1. Set 에대해 공부해보기
+
+### 10 월 3 주차 + 밀린 문제 풀기
+
+1. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+
+풀이 : [실패율](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
+
+1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/amorfati0310/e5c4909e6cca454accea80d9af809221)
+
+1. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+   풀이: [풀이](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
+
+### 아직 싱크 맞춰야 될 문제들
+
+1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+
+1. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+
+3) 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
+   풀이: [N 으로 표현]()
+
+4) 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)
+   풀이: [소수찾기]()
+
+5) 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)
+   풀이: [모의고사]()
+
+6) 문제: [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+
+[달리의 문제 1](https://repl.it/@bgando/stack-prompt)
+[달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+
+### 10 월 4 주차 문제
+
+# 181025
+
+- 풀어야 할 알고리즘 문제
+  1. [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2 까지 해결하기.
+  1. [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
