@@ -72,9 +72,7 @@ console.log(fibMemo(100));
 
 ### 10 월 3 주차 + 밀린 문제 풀기
 
-1. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
-
-풀이 : [실패율](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
+1. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) 풀이 : [실패율](https://gist.github.com/amorfati0310/ce56dcb28f54fe0fee4d5d1a08daa83d)
 
 1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/amorfati0310/e5c4909e6cca454accea80d9af809221)
 
