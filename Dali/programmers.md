@@ -81,7 +81,7 @@ console.log(fibMemo(100));
 
 ### 아직 싱크 맞춰야 될 문제들
 
-1. 문제: [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+1. 문제: [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)풀이 : [실패율](https://gist.github.com/amorfati0310/37063d4578467ae659691e29dc77e1d0)
 
 1. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
