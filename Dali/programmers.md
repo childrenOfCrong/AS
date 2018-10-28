@@ -102,6 +102,7 @@ console.log(fibMemo(100));
 ### 10 월 4 주차 문제
 
 1. [codility01](https://gist.github.com/amorfati0310/be5ae316fa99581ea5c323eee6d7deed)
+2. [codility02](https://gist.github.com/amorfati0310/306cbfe5cd836692af1c10fe9cf33ac3)
 
 # 181025
 
