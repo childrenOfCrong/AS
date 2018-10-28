@@ -35,7 +35,7 @@
 - [위장]
 
 2018-10-25
-- [코딜리티]의 lesson2까지 해결하기.
+- [BinaryGap]
 - [땅따먹기]
 ------------------------------
 
@@ -73,5 +73,5 @@
 [위장]: https://gist.github.com/cohily12/21fae1e829976653734982b87be33e41
 [프린트]: https://gist.github.com/cohily12/4545a8e660502ec22b06f6c3f3869207
 
-[코딜리티]: https://app.codility.com/programmers/custom_challenge/krypton2018/
+[BinaryGap]: https://gist.github.com/cohily12/99a8ba45bef8f123efbedd9251a11fcb
 [땅따먹기]: https://gist.github.com/cohily12/8c87b23168a18934642a36c9e872c492
