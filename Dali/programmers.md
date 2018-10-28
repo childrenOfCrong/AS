@@ -101,6 +101,8 @@ console.log(fibMemo(100));
 
 ### 10 월 4 주차 문제
 
+1. [codility01](https://gist.github.com/amorfati0310/be5ae316fa99581ea5c323eee6d7deed)
+
 # 181025
 
 - 풀어야 할 알고리즘 문제
