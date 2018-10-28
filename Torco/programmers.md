@@ -33,6 +33,10 @@
 - [프린트]
 - [올바른 괄호]
 - [위장]
+
+2018-10-25
+코딜리티의 lesson2까지 해결하기.
+- [땅따먹기]
 ------------------------------
 
 알고리즘 공부
@@ -68,3 +72,5 @@
 [올바른 괄호]: https://gist.github.com/cohily12/a07657b756c0522450e711046b510ad4
 [위장]: https://gist.github.com/cohily12/21fae1e829976653734982b87be33e41
 [프린트]: https://gist.github.com/cohily12/4545a8e660502ec22b06f6c3f3869207
+
+[땅따먹기]: https://gist.github.com/cohily12/8c87b23168a18934642a36c9e872c492
