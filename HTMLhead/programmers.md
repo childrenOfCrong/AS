@@ -83,6 +83,7 @@
 
   * [평균구하기](https://gist.github.com/HTMLhead/0e34f77b846fc687899b35996179318a)
 
+## 5주차
 ### 풀어야 할 알고리즘 문제
   * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
 
@@ -93,3 +94,10 @@
   * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript), [[내답](https://gist.github.com/HTMLhead/b13cb04ee5aeed292f1f6e414bf21dae)]
 
   * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript), [[내답](https://gist.github.com/HTMLhead/32763fb734bc5c98352a31af811b1a07)]
+
+## 6주차
+
+### 풀어야 할 알고리즘 문제
+  * [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2까지 해결하기.
+  * [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+
