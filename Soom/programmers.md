@@ -113,8 +113,10 @@
 
 32. 181029 - 문제: [Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) 풀이: [BinaryGap](https://gist.github.com/developersoom/0c0482849af6cb0a92559a282e4f71b1)
 
-33. 문제: [Codility]() 풀이: [CyclicRotation]()
+33. 181029 문제: [Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) 풀이: [CyclicRotation](https://gist.github.com/developersoom/9e6c60fd115b716f201c5a17d42eb11a)
+
 34. 문제: [Codility]() 풀이: [OddOccurrencesInArray]()
+
 35. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12913) 풀이: [땅따먹기]()
 
 <br>
