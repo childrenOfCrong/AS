@@ -53,3 +53,9 @@
 1. [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
 1. [올바른 괄호](https://gist.github.com/pdvonzoo/b46a6a25ac4b28049d0c16f8b854dc24)
 1. [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+
+### 06회차
+
+1. [BinaryGap](https://gist.github.com/pdvonzoo/f0b2f815749e5ce838cdad17f06f1c39)
+1. 코딜리티의 lesson2까지 해결하기.
+1. 프로그래머스 문제 : 땅따먹기
