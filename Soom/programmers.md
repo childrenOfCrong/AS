@@ -109,13 +109,14 @@
 30. 181021 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 풀이: [올바른 괄호](https://gist.github.com/developersoom/adab19f6603c567600f8a5aaf3e10794)
 
-31. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+31. 181025 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript) 풀이: [위장](https://gist.github.com/developersoom/9eede54b1e0208eba52d66cc4901a9dc)
 
-32. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript) 풀이: [위장](https://gist.github.com/developersoom/9eede54b1e0208eba52d66cc4901a9dc)
+32. 181029 - 문제: [Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) 풀이: [BinaryGap](https://gist.github.com/developersoom/0c0482849af6cb0a92559a282e4f71b1)
 
-33. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
-
-34. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+33. 문제: [Codility]() 풀이: [BinaryGap]()
+34. 문제: [Codility]() 풀이: [BinaryGap]()
+35. 문제: [Codility]() 풀이: [BinaryGap]()
+36. 문제: [Codility]() 풀이: [BinaryGap]()
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
@@ -141,3 +142,9 @@
 
 7. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
+
+8. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+
+9. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
+
+10. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
