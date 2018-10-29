@@ -100,5 +100,6 @@
 ### 풀어야 할 알고리즘 문제
   * [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2까지 해결하기.
   * [lesson1-1](https://gist.github.com/HTMLhead/9290259901d043dcb433bf8dd1cc1bc8)
+  * [lesson2-1](https://app.codility.com/demo/results/trainingPYZBBJ-4RD/)
   * [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
 
