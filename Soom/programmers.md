@@ -115,7 +115,7 @@
 
 33. 181029 - 문제: [Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) 풀이: [CyclicRotation](https://gist.github.com/developersoom/9e6c60fd115b716f201c5a17d42eb11a)
 
-34. 문제: [Codility]() 풀이: [OddOccurrencesInArray]()
+34. 181029- 문제: [Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) 풀이: [OddOccurrencesInArray](https://gist.github.com/developersoom/7bc533a1fdbc72f4b0fb128203288b2e)
 
 35. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12913) 풀이: [땅따먹기]()
 
