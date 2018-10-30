@@ -99,6 +99,8 @@ AlgorithmStudy
     
 ### 181030
 ---
+* 오늘 협업한 문제 
+    [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript)
 * 알고리즘 발표 ZeroCho
     1. [삽입정렬](https://www.zerocho.com/category/Algorithm/post/57e39fca76a7850015e6944a)
     1. [합병(머지, 병합)정렬](https://www.zerocho.com/category/Algorithm/post/57ee1fc107c0b40015045cb4)
