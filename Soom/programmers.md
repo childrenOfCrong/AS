@@ -117,7 +117,9 @@
 
 34. 181029 - 문제: [Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) 풀이: [OddOccurrencesInArray](https://gist.github.com/developersoom/7bc533a1fdbc72f4b0fb128203288b2e)
 
-35. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12913) 풀이: [땅따먹기]()
+35. 181030 (짝코딩) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) 풀이:[기능개발](https://gist.github.com/developersoom/acad3b5e323e7acee910e128ed72ac65)
+
+36. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12913) 풀이: [땅따먹기]()
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
