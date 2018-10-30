@@ -104,8 +104,12 @@ console.log(fibMemo(100));
 1. [codility01](https://gist.github.com/amorfati0310/be5ae316fa99581ea5c323eee6d7deed)
 2. [codility02](https://gist.github.com/amorfati0310/306cbfe5cd836692af1c10fe9cf33ac3)
 
-# 181025
+### 181025
 
 - 풀어야 할 알고리즘 문제
   1. [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2 까지 해결하기.
   1. [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+  
+### 181030 페어프로그래밍
+
+* [개발일수](https://gist.github.com/amorfati0310/7f11a7244ff3f04437fb13a9f9b3249d)
