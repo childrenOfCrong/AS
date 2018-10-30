@@ -16,6 +16,7 @@ AlgorithmStudy
 
 
 ### 180921
+---
 * 풀어야 할 알고리즘 문제
     1. [완주하지  못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
     1. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)
@@ -28,6 +29,7 @@ AlgorithmStudy
 * 이번 지각비 : 달리 1000원
 
 ### 180928
+---
 * 풀어야 할 알고리즘 문제
     1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)
     1. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
@@ -48,6 +50,7 @@ AlgorithmStudy
 * 소수찾기 알고리즘 [해결](https://gist.github.com/HTMLhead/ecd760064fdcd2d9b466d3e290390a04)
 
 ### 181004
+---
 * 풀어야 할 알고리즘 문제
     1. [문자열 내 마음대로 정리하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
     1. [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
@@ -67,6 +70,7 @@ AlgorithmStudy
     1. 궁금한점을 코멘트로 달아준다.
     
 ### 181011
+---
 * 풀어야 할 알고리즘 문제
     1. [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
     1. [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)
@@ -77,6 +81,7 @@ AlgorithmStudy
     1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
  
 ### 181018
+---
 * 풀어야 할 알고리즘 문제
     1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
     1. [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
@@ -85,12 +90,14 @@ AlgorithmStudy
     1. [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
     
 ### 181025
+---
 * 풀어야 할 알고리즘 문제
     1. [lesson1](https://app.codility.com/programmers/lessons/1-iterations/)
     1. [lesson2](https://app.codility.com/programmers/lessons/2-arrays/)
     1. [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
     
 ### 181030
+---
 * 알고리즘 발표 ZeroCho
     1. [삽입정렬](https://www.zerocho.com/category/Algorithm/post/57e39fca76a7850015e6944a)
     1. [합병(머지, 병합)정렬](https://www.zerocho.com/category/Algorithm/post/57ee1fc107c0b40015045cb4)
