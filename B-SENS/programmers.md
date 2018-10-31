@@ -57,5 +57,6 @@
 ### 06회차
 
 1. [BinaryGap](https://gist.github.com/pdvonzoo/f0b2f815749e5ce838cdad17f06f1c39)
+1. [CyclicRotation](https://gist.github.com/pdvonzoo/a5bd0d14244ba0df826ecc4e83a48d91)
 1. 코딜리티의 lesson2까지 해결하기.
 1. 프로그래머스 문제 : 땅따먹기
