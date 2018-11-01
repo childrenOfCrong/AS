@@ -36,6 +36,8 @@
 
 2018-10-25
 - [BinaryGap]
+- [CyclicRotation]
+- [OddOccurrencesInArray]
 - [땅따먹기]
 ------------------------------
 
@@ -74,4 +76,6 @@
 [프린트]: https://gist.github.com/cohily12/4545a8e660502ec22b06f6c3f3869207
 
 [BinaryGap]: https://gist.github.com/cohily12/99a8ba45bef8f123efbedd9251a11fcb
+[CyclicRotation]: https://gist.github.com/cohily12/f7d5d14eb6fc0e7423be6dc983b090ee
+[OddOccurrencesInArray]: https://gist.github.com/cohily12/eaf5029e07a10d071161078f83cdd114
 [땅따먹기]: https://gist.github.com/cohily12/8c87b23168a18934642a36c9e872c492
