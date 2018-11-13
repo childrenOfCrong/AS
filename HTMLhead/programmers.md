@@ -104,3 +104,9 @@
   * [lesson2-2](https://gist.github.com/HTMLhead/de62276d07ed04d17122e13b01cabe51)
   * [프로그래머스 문제 : 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
 
+## 7주차
+
+### 풀어야할 알고리즘 문제
+  * [lesson3-1](https://gist.github.com/HTMLhead/244b91baa4eef4e36284a31542ea49b3)
+  * [lesson3-2](about:blank)
+  * [lesson3-3](about:blank)
