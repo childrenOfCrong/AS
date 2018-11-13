@@ -61,4 +61,8 @@
 1. [OddOccurrencesInArray](https://gist.github.com/pdvonzoo/8c18ecfe941ae9f09e1cb7e9219358b1)
 1. 프로그래머스 문제 : 땅따먹기
 
-### 07
+### 07회차
+
+1. [PermMissingElem](https://gist.github.com/pdvonzoo/1463fe29e292ff1fa3698af56033aea0)
+1.
+1.
