@@ -119,7 +119,8 @@
 
 35. 181030 (짝코딩) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) 풀이:[기능개발](https://gist.github.com/developersoom/acad3b5e323e7acee910e128ed72ac65)
 
-36. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12913) 풀이: [땅따먹기]()
+36. 181113 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) 풀이: [PermMissingElem](https://gist.github.com/developersoom/d053921d9b104119f46700dd3a5d1daf)
+
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
@@ -151,3 +152,5 @@
 9. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
 10. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
+
+11. 문제: [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
