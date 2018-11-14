@@ -18,6 +18,7 @@ class List {
     }
 
     add(value) {//앞에부터 더하는 방식
+        debugger;
         let node = new Node(value)
         let current = this.linkedList.head
         if (current === null) {
@@ -30,17 +31,20 @@ class List {
         }
         current.next = node
         this.linkedList.length++
-        return node
+        return
     }
 
     remove() {//앞의값만 지우는 방식
-        var remove = this.linkedList.head;
         this.linkedList.head = this.linkedList.head.next; // head를 두 번째 노드로 교체
         this.linkedList.length--;
-        return remove;
+        return 
     }
 }
 
 const linkedList = new LinkedList()
 const list = new List(linkedList)
-
+list.add(1)
+list.add(2)
+list.add(3)
+list.remove()
+console.log(list)
