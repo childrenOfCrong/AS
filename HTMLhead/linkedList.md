@@ -33,22 +33,20 @@ class List {//add와 remove함수를 프로토타입으로 만들기 위한 list
         if (current === null) {//현재값이 비어있다면 head에 새로운 node값 삽입
             this.linkedList.head = node
             this.linkedList.length++
-            return
+            return;
         }
         while (current.next) {//아니라면 next값이 null이 될때까지 찾다가
             current = current.next
         }
         current.next = node//null인순간 current.next를 node로 만듬
         this.linkedList.length++//길이늘려주고
-        return
+        return;
     }
 
     remove() {//앞의값만 지우는 방식
-    
-        const remove = this.linkedList.head;
         this.linkedList.head = this.linkedList.head.next; // head를 두 번째 노드로 교체
         this.linkedList.length--;
-        return remove;
+        return;
     }
 }
 
@@ -56,4 +54,4 @@ const linkedList = new LinkedList()
 const list = new List(linkedList)
 ```
 
-위와같습니다.
+위와같습니다. 위의코드는 한쪽 방향으로밖에 추가하지 못하고, 한쪽 방향으로밖에 제거하지 못합니다. 이를 해결한 리스트가 있는데, 이는 이중 연결 리스트입니다. next외에 this.prev를 넣어 이전 노드를 가리키게 한 겁니다. 구현은 조금 더 복잡해지지만, 한 번 구현하면 그 뒤로는 편하게 앞과 뒤로 노드를 왔다갔다할 수 있습니다. 또 지금은 하나의 데이터씩만 연결되지만 한 노드에서 여러 노드를 연결하는 다중 연결 리스트도 있습니다. this.next를 노드들의 배열로 만들면 되겠죠? 필요에 따라 조금씩 변형해서 쓰시면 됩니다.
