@@ -39,6 +39,9 @@
 - [CyclicRotation]
 - [OddOccurrencesInArray]
 - [땅따먹기]
+
+2018-11-15
+- [TapeEquilibrium](https://gist.github.com/cohily12/9a446410885ca64622d8322a0fd3962b)
 ------------------------------
 
 알고리즘 공부
