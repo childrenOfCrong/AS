@@ -121,6 +121,7 @@
 
 36. 181113 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) 풀이: [PermMissingElem](https://gist.github.com/developersoom/d053921d9b104119f46700dd3a5d1daf)
 
+37. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) 풀이: [FrogJmp](https://gist.github.com/developersoom/dd3b37516affe96d9e0078a2b37d25f6)
 
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
