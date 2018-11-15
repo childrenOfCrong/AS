@@ -109,4 +109,4 @@
 ### 풀어야할 알고리즘 문제
   * [lesson3-1](https://gist.github.com/HTMLhead/244b91baa4eef4e36284a31542ea49b3)
   * [lesson3-2](https://app.codility.com/demo/results/trainingMDSWZ2-KHV/)
-  * [lesson3-3](about:blank)
+  * [lesson3-3](https://app.codility.com/demo/results/trainingB2YJ4B-X8D/)
