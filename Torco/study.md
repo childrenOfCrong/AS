@@ -37,3 +37,7 @@ function merge(left, right){
 	return result;
 };
 ```
+
+### [계수정렬](https://gist.github.com/cohily12/474735938ff53ecb6c64a74152c4de61)
+
+### [기수정렬](https://gist.github.com/cohily12/c98ea31b704cf6d646d7d4a8031805ef)
