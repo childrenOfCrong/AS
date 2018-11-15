@@ -123,6 +123,8 @@
 
 37. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) 풀이: [FrogJmp](https://gist.github.com/developersoom/dd3b37516affe96d9e0078a2b37d25f6)
 
+38. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) 풀이: [TapeEquilibrium](https://gist.github.com/developersoom/89e244591013687e9a6d9671d2cae2d0)
+
 <br>
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
