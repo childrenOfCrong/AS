@@ -125,12 +125,13 @@
 
 38. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) 풀이: [TapeEquilibrium](https://gist.github.com/developersoom/89e244591013687e9a6d9671d2cae2d0)
 
+39. 181116 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) 풀이: [PermCheck](https://gist.github.com/developersoom/630705119de7f83d53e6d56793283dc7)
 <br>
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
-1. 180926 - <<미완성>>
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
+1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
 2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
