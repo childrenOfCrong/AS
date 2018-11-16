@@ -51,3 +51,7 @@
 - [기능개발](https://gist.github.com/cohily12/63a3e5fda521ce524c561f98f5a66d0b)
 - [쇠막대기](https://gist.github.com/cohily12/9decafe75046334ab471005af39a8be4)
 - [H-index](https://gist.github.com/cohily12/503ca570df45d75ddd41dbdaf7cbfff9)
+- [멀리뛰기](https://gist.github.com/cohily12/c324ea0a39a2e9efeb14cf4a27fc79ee)
+- [JadenCase문자열만들기](https://gist.github.com/cohily12/4d8378c3ef11876195fd977de0420aae)
+- [점프와 순간이동](https://gist.github.com/cohily12/43eec4ad58d8c9347a05e3a43ed714a4)
+- [다트 게임](https://gist.github.com/cohily12/0963efd207745c0a19bf909336f746da)
