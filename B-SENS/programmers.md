@@ -64,5 +64,5 @@
 ### 07회차
 
 1. [PermMissingElem](https://gist.github.com/pdvonzoo/1463fe29e292ff1fa3698af56033aea0)
-1. [FrogJmp]
+1. [FrogJmp](https://gist.github.com/pdvonzoo/8608e74e9a331ce1132d7ffa0425b721)
 1. [TapeEquilibrium]
