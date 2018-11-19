@@ -45,6 +45,7 @@
 
 2018-11-22
 - [permCheck](https://gist.github.com/cohily12)
+
 ------------------------------
 
 알고리즘 공부
@@ -55,3 +56,4 @@
 - [JadenCase문자열만들기](https://gist.github.com/cohily12/4d8378c3ef11876195fd977de0420aae)
 - [점프와 순간이동](https://gist.github.com/cohily12/43eec4ad58d8c9347a05e3a43ed714a4)
 - [다트 게임](https://gist.github.com/cohily12/0963efd207745c0a19bf909336f746da)
+- [최고의 집합](https://gist.github.com/cohily12/d29388726dd00d0d2a82ed42e6f55c27)
