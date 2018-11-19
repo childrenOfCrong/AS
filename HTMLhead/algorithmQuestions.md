@@ -115,6 +115,6 @@
 
 ### 풀어야할 알고리즘 문제
   * [lesson4-1](https://app.codility.com/demo/results/trainingHE9KPM-9C6/)
-  * [lesson4-2](about:blank)
+  * [lesson4-2](https://app.codility.com/demo/results/training6C2Y5U-N6Q/)
   * [lesson4-3](about:blank)
   * [lesson4-4](about:blank)
