@@ -45,6 +45,7 @@
 
 2018-11-22
 - [permCheck](https://gist.github.com/cohily12)
+- [missingInteger](https://gist.github.com/cohily12/3e4889730edcde300bc2c46319d5500e)
 
 ------------------------------
 
