@@ -45,6 +45,7 @@
 
 2018-11-22
 - [permCheck](https://gist.github.com/cohily12)
+- [frogRiverOne](https://gist.github.com/cohily12/7833707c0e45c2a429b28a7ef59f99cd)
 - [missingInteger](https://gist.github.com/cohily12/3e4889730edcde300bc2c46319d5500e)
 
 ------------------------------
