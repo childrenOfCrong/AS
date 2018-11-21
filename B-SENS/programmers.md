@@ -70,3 +70,4 @@
 ### 08회차
 
 1. [PermCheck](https://gist.github.com/pdvonzoo/48c09723e853b507d132ea13e483d0d4)
+2. [FrogRiverOne](https://gist.github.com/pdvonzoo/05acd2a6a4378ef1a19bd64fe021796c)
