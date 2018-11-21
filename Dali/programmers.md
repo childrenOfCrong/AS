@@ -122,8 +122,8 @@ console.log(fibMemo(100));
 
 ### 181122
 
-1. [codility0401]
-1. [codility0402]
-1. [codility0403]
-1. [codility0404]
+1. [codility0401](https://gist.github.com/amorfati0310/c5d9c7a4913ed66712026dee7816acc3)
+1. [codility0402](https://gist.github.com/amorfati0310/2e6339fed7bd0f21b3f78544218ea4da)
+1. [codility0403](https://gist.github.com/amorfati0310/e9611ca57e65efb79642756d06eecdf2)
+1. [codility0404](https://gist.github.com/amorfati0310/1f34c4191f35aec4169f5a2b4e4a6d39)
 
