@@ -118,3 +118,12 @@ console.log(fibMemo(100));
 
 1. [codility0301](https://gist.github.com/amorfati0310/6acecbcd8cf4ac0050ba6e17b585dd88)
 2. [codility0302](https://gist.github.com/amorfati0310/2603a0701909e6b2e769d844bfdabdb6)
+
+
+### 181122
+
+1. [codility0401]
+1. [codility0402]
+1. [codility0403]
+1. [codility0404]
+
