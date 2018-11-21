@@ -66,3 +66,7 @@
 1. [PermMissingElem](https://gist.github.com/pdvonzoo/1463fe29e292ff1fa3698af56033aea0)
 1. [FrogJmp](https://gist.github.com/pdvonzoo/8608e74e9a331ce1132d7ffa0425b721)
 1. [TapeEquilibrium]()
+
+### 08회차
+
+1. [PermCheck](https://gist.github.com/pdvonzoo/48c09723e853b507d132ea13e483d0d4)
