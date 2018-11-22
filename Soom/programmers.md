@@ -131,6 +131,9 @@
 
 41. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) 풀이: [MissingInteger](https://gist.github.com/developersoom/bada45b76962e95c8e61132c042ea750)
 
+42. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) 풀이: [MaxCounters](https://gist.github.com/developersoom/e9aabc2473544c9fdadfb08f863859bf) <-- 타임아웃... 
+
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
