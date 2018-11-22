@@ -117,4 +117,4 @@
   * [lesson4-1](https://app.codility.com/demo/results/trainingHE9KPM-9C6/)
   * [lesson4-2](https://app.codility.com/demo/results/training6C2Y5U-N6Q/)
   * [lesson4-3](https://app.codility.com/demo/results/trainingW7WE3A-Q7K/)
-  * [lesson4-4](about:blank)
+  * [lesson4-4](https://app.codility.com/demo/results/trainingTE45HM-WMD/)
