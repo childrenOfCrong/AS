@@ -129,6 +129,8 @@
 
 40. 181118 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) 풀이: [FrogRiverOne](https://gist.github.com/developersoom/c2e8ef825e18090eea40389ad9a757f2)
 
+41. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) 풀이: [MissingInteger](https://gist.github.com/developersoom/bada45b76962e95c8e61132c042ea750)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
