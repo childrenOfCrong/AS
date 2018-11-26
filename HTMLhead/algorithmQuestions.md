@@ -118,3 +118,8 @@
   * [lesson4-2](https://app.codility.com/demo/results/training6C2Y5U-N6Q/)
   * [lesson4-3](https://app.codility.com/demo/results/trainingW7WE3A-Q7K/)
   * [lesson4-4](https://app.codility.com/demo/results/trainingTE45HM-WMD/)
+
+## 9주차?
+
+### 풀어야할 알고리즘 문제
+  *[다리를 지나는 트럭](https://gist.github.com/HTMLhead/7bf88d8082a69226b2568a6870bc5a11)
