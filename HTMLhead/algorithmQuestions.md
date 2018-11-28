@@ -122,4 +122,5 @@
 ## 9주차?
 
 ### 풀어야할 알고리즘 문제
-  *[다리를 지나는 트럭](https://gist.github.com/HTMLhead/7bf88d8082a69226b2568a6870bc5a11)
+  * [다리를 지나는 트럭](https://gist.github.com/HTMLhead/7bf88d8082a69226b2568a6870bc5a11)
+  * [TaleOfTwoStacks](https://gist.github.com/HTMLhead/84a27def85f7d4eb44e8ed6bb2d1823f)
