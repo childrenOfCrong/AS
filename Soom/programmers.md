@@ -133,6 +133,11 @@
 
 42. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) 풀이: [MaxCounters](https://gist.github.com/developersoom/e9aabc2473544c9fdadfb08f863859bf) <-- 타임아웃... 
 
+43. 181129 - 문제: [hackerrank](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) 풀이: [Queues: A Tale of Two Stacks](https://gist.github.com/developersoom/34154ee6f89e33d83a646a2127b4a867)
+
+44. 181129 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) 풀이: [다리를 지나는 트럭](https://gist.github.com/developersoom/c88506a137fcba4e967a8df8b3ccad55)
+
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
