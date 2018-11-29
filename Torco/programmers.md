@@ -48,6 +48,9 @@
 - [frogRiverOne](https://gist.github.com/cohily12/7833707c0e45c2a429b28a7ef59f99cd)
 - [missingInteger](https://gist.github.com/cohily12/3e4889730edcde300bc2c46319d5500e)
 
+2018-11-29
+- [다리를 지나는 트럭](https://gist.github.com/cohily12/03d683003f8f8874910984a588070121)
+
 ------------------------------
 
 알고리즘 공부
