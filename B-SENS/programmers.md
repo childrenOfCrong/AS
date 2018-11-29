@@ -81,4 +81,4 @@
 ### 09회차
 
 1. [다리를 지나는 트럭](https://gist.github.com/pdvonzoo/0de347a4229a8dbe392a7483badc8f57)
-1.
+1. [A Tale of Two Stacks](https://gist.github.com/pdvonzoo/e72b3ad96237f48ae769ccac0f4fc5e0)
