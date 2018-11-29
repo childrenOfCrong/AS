@@ -80,5 +80,5 @@
 
 ### 09회차
 
-1. [다리를 지나는 트](https://gist.github.com/pdvonzoo/0de347a4229a8dbe392a7483badc8f57)
+1. [다리를 지나는 트럭](https://gist.github.com/pdvonzoo/0de347a4229a8dbe392a7483badc8f57)
 1.
