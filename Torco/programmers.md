@@ -52,6 +52,9 @@
 - [다리를 지나는 트럭](https://gist.github.com/cohily12/03d683003f8f8874910984a588070121)
 - [Queues: A Tale of Two Stacks](https://gist.github.com/cohily12/c45ed7657e5bb49d70f0c7cdfbac6e29)
 
+2018-12-04
+- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6)
+
 ------------------------------
 
 알고리즘 공부
