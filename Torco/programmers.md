@@ -53,7 +53,7 @@
 - [Queues: A Tale of Two Stacks](https://gist.github.com/cohily12/c45ed7657e5bb49d70f0c7cdfbac6e29)
 
 2018-12-04
-- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6)
+- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6) 복잡도 
 
 ------------------------------
 
