@@ -137,7 +137,7 @@
 
 44. 181129 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) 풀이: [다리를 지나는 트럭](https://gist.github.com/developersoom/c88506a137fcba4e967a8df8b3ccad55)
 
-
+45. 181206 - 문제: [hackerrank](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) 풀이: [Fraudulent Activity Notifications](https://gist.github.com/developersoom/bd74c6d64713135b9f3edbc8f65c5f44)
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
