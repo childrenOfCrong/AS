@@ -129,3 +129,14 @@
 
 ### 풀어야할 알고리즘 문제
   * [FraudulentActivityNotifications](https://gist.github.com/HTMLhead/c1ed0580ac2c8dca0e5ba9102253cadc)
+
+## 11주차
+
+###풀어야할 알고리즘 문제
+  * [CountingInversions](https://gist.github.com/HTMLhead/e64a5f8cf111cffe9639e8ff2643c5f2)
+
+## 12주차
+
+###풀어야할 알고리즘 문제
+  * [베스트앨범]()
+  * [전화번호목록]()
