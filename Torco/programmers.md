@@ -42,9 +42,28 @@
 
 2018-11-15
 - [TapeEquilibrium](https://gist.github.com/cohily12/9a446410885ca64622d8322a0fd3962b)
+
+2018-11-22
+- [permCheck](https://gist.github.com/cohily12)
+- [frogRiverOne](https://gist.github.com/cohily12/7833707c0e45c2a429b28a7ef59f99cd)
+- [missingInteger](https://gist.github.com/cohily12/3e4889730edcde300bc2c46319d5500e)
+
+2018-11-29
+- [다리를 지나는 트럭](https://gist.github.com/cohily12/03d683003f8f8874910984a588070121)
+- [Queues: A Tale of Two Stacks](https://gist.github.com/cohily12/c45ed7657e5bb49d70f0c7cdfbac6e29)
+
+2018-12-04
+- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6) 복잡도 
+
 ------------------------------
 
 알고리즘 공부
 - [기능개발](https://gist.github.com/cohily12/63a3e5fda521ce524c561f98f5a66d0b)
 - [쇠막대기](https://gist.github.com/cohily12/9decafe75046334ab471005af39a8be4)
 - [H-index](https://gist.github.com/cohily12/503ca570df45d75ddd41dbdaf7cbfff9)
+- [멀리뛰기](https://gist.github.com/cohily12/c324ea0a39a2e9efeb14cf4a27fc79ee)
+- [JadenCase문자열만들기](https://gist.github.com/cohily12/4d8378c3ef11876195fd977de0420aae)
+- [점프와 순간이동](https://gist.github.com/cohily12/43eec4ad58d8c9347a05e3a43ed714a4)
+- [다트 게임](https://gist.github.com/cohily12/0963efd207745c0a19bf909336f746da)
+- [최고의 집합](https://gist.github.com/cohily12/d29388726dd00d0d2a82ed42e6f55c27)
+- [가장 큰수](https://gist.github.com/cohily12/5d175a0a2f86af86aa8b44665f131331)

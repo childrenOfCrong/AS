@@ -15,6 +15,7 @@ var insertionSort = function(array){
 ```
 
 ### 합병정렬
+
 ```
 var mergeSort = function(arr) {
 	if( arr.length < 2 ) return arr;

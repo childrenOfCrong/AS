@@ -121,13 +121,28 @@
 
 36. 181113 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) 풀이: [PermMissingElem](https://gist.github.com/developersoom/d053921d9b104119f46700dd3a5d1daf)
 
+37. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) 풀이: [FrogJmp](https://gist.github.com/developersoom/dd3b37516affe96d9e0078a2b37d25f6)
 
-<br>
+38. 181115 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) 풀이: [TapeEquilibrium](https://gist.github.com/developersoom/89e244591013687e9a6d9671d2cae2d0)
+
+39. 181116 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) 풀이: [PermCheck](https://gist.github.com/developersoom/630705119de7f83d53e6d56793283dc7)
+
+40. 181118 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) 풀이: [FrogRiverOne](https://gist.github.com/developersoom/c2e8ef825e18090eea40389ad9a757f2)
+
+41. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) 풀이: [MissingInteger](https://gist.github.com/developersoom/bada45b76962e95c8e61132c042ea750)
+
+42. 181122 - 문제: [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) 풀이: [MaxCounters](https://gist.github.com/developersoom/e9aabc2473544c9fdadfb08f863859bf) <-- 타임아웃... 
+
+43. 181129 - 문제: [hackerrank](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) 풀이: [Queues: A Tale of Two Stacks](https://gist.github.com/developersoom/34154ee6f89e33d83a646a2127b4a867)
+
+44. 181129 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) 풀이: [다리를 지나는 트럭](https://gist.github.com/developersoom/c88506a137fcba4e967a8df8b3ccad55)
+
+45. 181206 - 문제: [hackerrank](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) 풀이: [Fraudulent Activity Notifications](https://gist.github.com/developersoom/bd74c6d64713135b9f3edbc8f65c5f44)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
-1. 180926 - <<미완성>>
-문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
+1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
 2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)

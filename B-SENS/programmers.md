@@ -64,5 +64,26 @@
 ### 07회차
 
 1. [PermMissingElem](https://gist.github.com/pdvonzoo/1463fe29e292ff1fa3698af56033aea0)
-1. [FrogJmp]
-1. [TapeEquilibrium]
+1. [FrogJmp](https://gist.github.com/pdvonzoo/8608e74e9a331ce1132d7ffa0425b721)
+1. [TapeEquilibrium]()
+
+### 08회차
+
+1. [PermCheck](https://gist.github.com/pdvonzoo/48c09723e853b507d132ea13e483d0d4)
+1. [FrogRiverOne](https://gist.github.com/pdvonzoo/05acd2a6a4378ef1a19bd64fe021796c)
+1. [MaxCounters](https://gist.github.com/pdvonzoo/a94f4bbe57ba41e085bc24b0f24ac2ee)
+1. [MissingInteger](https://gist.github.com/pdvonzoo/6952a7a81a49c1f66b99d830126bd13f)
+
+### 자료구조
+
+1. [Heap](https://gist.github.com/pdvonzoo/22b14ab5c2f6768c9812335ac88fa6bb)
+
+### 09회차
+
+1. [다리를 지나는 트럭](https://gist.github.com/pdvonzoo/0de347a4229a8dbe392a7483badc8f57)
+1. [A Tale of Two Stacks](https://gist.github.com/pdvonzoo/e72b3ad96237f48ae769ccac0f4fc5e0)
+
+## 10회차
+
+1. [Fraudulent Activity Notifications](https://gist.github.com/pdvonzoo/282286eb0a7f4fc7156fbb23087b40af)
+1. [Merge Sort]()

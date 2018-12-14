@@ -109,4 +109,23 @@
 ### 풀어야할 알고리즘 문제
   * [lesson3-1](https://gist.github.com/HTMLhead/244b91baa4eef4e36284a31542ea49b3)
   * [lesson3-2](https://app.codility.com/demo/results/trainingMDSWZ2-KHV/)
-  * [lesson3-3](about:blank)
+  * [lesson3-3](https://app.codility.com/demo/results/trainingB2YJ4B-X8D/)
+
+## 8주차
+
+### 풀어야할 알고리즘 문제
+  * [lesson4-1](https://app.codility.com/demo/results/trainingHE9KPM-9C6/)
+  * [lesson4-2](https://app.codility.com/demo/results/training6C2Y5U-N6Q/)
+  * [lesson4-3](https://app.codility.com/demo/results/trainingW7WE3A-Q7K/)
+  * [lesson4-4](https://app.codility.com/demo/results/trainingTE45HM-WMD/)
+
+## 9주차?
+
+### 풀어야할 알고리즘 문제
+  * [다리를 지나는 트럭](https://gist.github.com/HTMLhead/7bf88d8082a69226b2568a6870bc5a11)
+  * [TaleOfTwoStacks](https://gist.github.com/HTMLhead/84a27def85f7d4eb44e8ed6bb2d1823f)
+
+## 10주차?
+
+### 풀어야할 알고리즘 문제
+  * [FraudulentActivityNotifications](https://gist.github.com/HTMLhead/c1ed0580ac2c8dca0e5ba9102253cadc)

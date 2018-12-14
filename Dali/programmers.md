@@ -54,7 +54,7 @@ console.log(fibMemo(100));
 
 ### next
 
-    1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
+1. [n으로 표현](https://gist.github.com/HTMLhead/25ac0507df85bc082e73c6df12f85f0c)
 
 ### 10 월 2 주차 문제
 
@@ -104,7 +104,6 @@ console.log(fibMemo(100));
 1. [codility01](https://gist.github.com/amorfati0310/be5ae316fa99581ea5c323eee6d7deed)
 2. [codility02](https://gist.github.com/amorfati0310/306cbfe5cd836692af1c10fe9cf33ac3)
 
-### 181025
 
 - 풀어야 할 알고리즘 문제
   1. [코딜리티](https://app.codility.com/programmers/custom_challenge/krypton2018/)의 lesson2 까지 해결하기.
@@ -113,3 +112,18 @@ console.log(fibMemo(100));
 ### 181030 페어프로그래밍
 
 * [개발일수](https://gist.github.com/amorfati0310/7f11a7244ff3f04437fb13a9f9b3249d)
+
+
+### 181115
+
+1. [codility0301](https://gist.github.com/amorfati0310/6acecbcd8cf4ac0050ba6e17b585dd88)
+2. [codility0302](https://gist.github.com/amorfati0310/2603a0701909e6b2e769d844bfdabdb6)
+
+
+### 181122
+
+1. [codility0401](https://gist.github.com/amorfati0310/c5d9c7a4913ed66712026dee7816acc3)
+1. [codility0402](https://gist.github.com/amorfati0310/2e6339fed7bd0f21b3f78544218ea4da)
+1. [codility0403](https://gist.github.com/amorfati0310/e9611ca57e65efb79642756d06eecdf2)
+1. [codility0404](https://gist.github.com/amorfati0310/1f34c4191f35aec4169f5a2b4e4a6d39)
+
