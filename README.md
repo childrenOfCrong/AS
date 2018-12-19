@@ -1,6 +1,6 @@
 # AS
 AlgorithmStudy
-목요일 7:00PM
+금요일 오전
 
 - 목요일
  1. 문제풀이
