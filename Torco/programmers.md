@@ -61,11 +61,15 @@
 
 2018-12-04
 
-- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6) 복잡도
+- [Fraudulent Activity Notifications](https://gist.github.com/cohily12/b8412839265d587977c16c737239e9f6)
 
 2018-12-14
 
 - [Merge Sort: Counting Inversion](https://gist.github.com/cohily12/f37411a1c191b1aec698de8b11685fae)
+
+2018-12-21
+
+- [베스트앨범](https://gist.github.com/cohily12/bd232e9443f548541f6b9b5b429b1a10)
 
 ---
 
