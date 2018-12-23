@@ -169,3 +169,5 @@
 10. 문제: [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)
 
 11. 문제: [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+
+12. 문제: [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=javascript) [35.7퍼 나오는 내 풀이](https://gist.github.com/developersoom/6e4734bdb8aa826455feafbf861a532b)
