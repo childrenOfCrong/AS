@@ -139,6 +139,8 @@
 
 45. 181206 - 문제: [hackerrank](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) 풀이: [Fraudulent Activity Notifications](https://gist.github.com/developersoom/bd74c6d64713135b9f3edbc8f65c5f44)
 
+46. 181226 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165?language=javascript) 풀이: [타겟 넘버](https://gist.github.com/developersoom/c4724de20b80240c5d747d8e51b07964)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
