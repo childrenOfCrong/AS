@@ -96,4 +96,4 @@
 ## 12회차
 
 1. [타겟넘버](https://gist.github.com/pdvonzoo/25caf0576a16a6ccd082f0f9cc13d7e4)
-1. [네트워크]()
+1. [네트워크](https://gist.github.com/pdvonzoo/f8d872b639b04391d1d0c914e928709f)
