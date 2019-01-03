@@ -93,3 +93,7 @@
 1. [위장](https://gist.github.com/pdvonzoo/8ee032c91d9e856e57865a2c292bf51b)
 1. [베스트앨범](https://gist.github.com/pdvonzoo/dfddb8ed5b07b6aee6f6c98cc1037902)
 
+## 12회차
+
+1. [타겟넘버](https://gist.github.com/pdvonzoo/25caf0576a16a6ccd082f0f9cc13d7e4)
+1. [네트워크]()
