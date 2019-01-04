@@ -141,13 +141,16 @@
 
 46. 181226 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165?language=javascript) 풀이: [타겟 넘버](https://gist.github.com/developersoom/c4724de20b80240c5d747d8e51b07964)
 
+47. 190105 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
+풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
-1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
-풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
+~~1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
+풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)~~
 
-2. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
+1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42891?language=javascript)
 풀이: [무지의 먹방 라이브]()
 
 3. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)
