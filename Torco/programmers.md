@@ -71,6 +71,10 @@
 
 - [베스트앨범](https://gist.github.com/cohily12/bd232e9443f548541f6b9b5b429b1a10)
 
+2019-01-09
+
+- [큰 수 만들기](https://gist.github.com/cohily12/6799cba5370b4473781a9ecf13076a4e)
+
 ---
 
 알고리즘 공부
