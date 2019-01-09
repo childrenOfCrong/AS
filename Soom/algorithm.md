@@ -144,6 +144,8 @@
 47. 190105 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)
 
+48. 190109 - 문제 [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42748?language=javascript) 풀이: [K번째수](https://gist.github.com/developersoom/0b359f362a2514da29d02e51076fe531)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
 
