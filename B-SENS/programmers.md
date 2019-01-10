@@ -101,3 +101,4 @@
 ## daily algorithm
 
 1. [나누어 떨어지는 숫자 배열](https://gist.github.com/pdvonzoo/4b0f1b645831d21030ae0afbeb48e086) 19/01/9
+1. [같은 숫자는 싫어](https://gist.github.com/pdvonzoo/ecae10827a13a6178b5db6a110460f5a) 19/01/10
