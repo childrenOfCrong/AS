@@ -75,6 +75,13 @@
 
 - [큰 수 만들기](https://gist.github.com/cohily12/6799cba5370b4473781a9ecf13076a4e)
 
+2019-01-10 
+
+- [Sock Merchant](https://gist.github.com/cohily12/cbaf9a458d710a5e46fefc17b00804ab)
+- [Counting Valley](https://gist.github.com/cohily12/ba963c9d1024a1487bcb66b062437b55)
+- [Jumping on the Clouds](https://gist.github.com/cohily12/c1ab57e125e7072b9ec3590de1dc82c3)
+- [Repeated String](https://gist.github.com/cohily12/902bb507e79af91abf18b7a1d4df5d83)
+
 ---
 
 알고리즘 공부
