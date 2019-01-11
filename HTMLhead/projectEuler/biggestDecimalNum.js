@@ -3,6 +3,7 @@ function solution(number) {
         if(number % i === 0) {
             number = number / i
             i = 2
+            continue;
         }
     }
     return number;
