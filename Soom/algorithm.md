@@ -150,6 +150,8 @@
 
 50. 190111 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12944) 풀이: [평균 구하기](https://gist.github.com/developersoom/b9345b5be2f92daeb9a5eceee3fa7623)
 
+51. 190111 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12948?language=javascript) 풀이: [핸드폰 번호 가리기](https://gist.github.com/developersoom/73acbf9fe63222ea274f33ae15cb2214)
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
