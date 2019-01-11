@@ -82,6 +82,10 @@
 - [Jumping on the Clouds](https://gist.github.com/cohily12/c1ab57e125e7072b9ec3590de1dc82c3)
 - [Repeated String](https://gist.github.com/cohily12/902bb507e79af91abf18b7a1d4df5d83)
 
+2019-01-11 
+
+- [New Year Chaos](https://gist.github.com/cohily12/fd4fe1c7945f05ee513fac16a139766f`)
+
 ---
 
 알고리즘 공부
