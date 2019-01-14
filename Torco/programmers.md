@@ -86,6 +86,10 @@
 
 - [New Year Chaos](https://gist.github.com/cohily12/fd4fe1c7945f05ee513fac16a139766f`)
 
+2019-01-14 
+
+- [스킬트리](https://gist.github.com/cohily12/e2bb45a16f0434ae0a6310d3f714501e) 리팩토링해야함...
+
 ---
 
 알고리즘 공부
