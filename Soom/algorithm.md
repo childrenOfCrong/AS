@@ -152,6 +152,8 @@
 
 51. 190111 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12948?language=javascript) 풀이: [핸드폰 번호 가리기](https://gist.github.com/developersoom/73acbf9fe63222ea274f33ae15cb2214)
 
+52. 190114 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript) 풀이: [제일 작은 수 제거하기](https://gist.github.com/developersoom/6f1870f6c672e0f77ad0a7356285ce38)
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
