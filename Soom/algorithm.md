@@ -156,6 +156,8 @@
 
 53. 190115 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript) 풀이: [자연수 뒤집어 배열로 만들기](https://gist.github.com/developersoom/814539412f6f116d3f07214ec485133d)
 
+54. 190115 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript) 풀이: [짝수와 홀수](https://gist.github.com/developersoom/86cc66a07f256a11cc0b71608837c766)
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
