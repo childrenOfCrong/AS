@@ -154,6 +154,8 @@
 
 52. 190114 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript) 풀이: [제일 작은 수 제거하기](https://gist.github.com/developersoom/6f1870f6c672e0f77ad0a7356285ce38)
 
+53. 190115 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript) 풀이: [자연수 뒤집어 배열로 만들기](https://gist.github.com/developersoom/814539412f6f116d3f07214ec485133d)
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
