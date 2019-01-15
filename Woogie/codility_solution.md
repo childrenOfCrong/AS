@@ -9,4 +9,5 @@
 ### Lesson2 - Array
 
 * [OddOccurrencesInArray](https://app.codility.com/demo/results/trainingXYJ3CJ-VSQ/)
+* [CyclicRotation](https://app.codility.com/demo/results/training46PB97-WVY/)
 
