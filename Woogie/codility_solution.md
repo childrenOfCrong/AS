@@ -14,3 +14,4 @@
 ### Lesson3 - Time Complexity
 
 * [FrogJmp](https://app.codility.com/demo/results/trainingBCAX4X-J8A/)
+* [PermMissingElem](https://app.codility.com/demo/results/trainingC4X8FB-XW3/)
