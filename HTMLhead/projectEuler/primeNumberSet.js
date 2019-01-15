@@ -17,5 +17,5 @@ function solution(n) {
   }
   return prime
 }
-
+//에라토스테네스의 체 사용요함
 console.log(solution(10))
