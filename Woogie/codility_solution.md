@@ -11,3 +11,6 @@
 * [OddOccurrencesInArray](https://app.codility.com/demo/results/trainingXYJ3CJ-VSQ/)
 * [CyclicRotation](https://app.codility.com/demo/results/training46PB97-WVY/)
 
+### Lesson3 - Time Complexity
+
+* [FrogJmp](https://app.codility.com/demo/results/trainingBCAX4X-J8A/)
