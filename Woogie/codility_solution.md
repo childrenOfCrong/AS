@@ -16,3 +16,7 @@
 * [FrogJmp](https://app.codility.com/demo/results/trainingBCAX4X-J8A/)
 * [PermMissingElem](https://app.codility.com/demo/results/trainingC4X8FB-XW3/)
 * [TapeEquilibrium](https://app.codility.com/demo/results/training5RHXJH-CS8/)
+
+### Lesson4 - Counting Elements
+
+* [PermCheck](https://app.codility.com/demo/results/trainingRWFTM5-A22/)
