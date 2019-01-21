@@ -90,6 +90,9 @@
 
 - [스킬트리](https://gist.github.com/cohily12/e2bb45a16f0434ae0a6310d3f714501e) 리팩토링해야함...
 
+2019-01-18
+
+- [조이스틱](https://gist.github.com/cohily12/128511bd9a91af32e16672887b)
 ---
 
 알고리즘 공부

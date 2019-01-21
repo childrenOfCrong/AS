@@ -160,6 +160,10 @@
 
 55. 190117 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12950?language=javascript) 풀이: [행렬의 덧셈](https://gist.github.com/developersoom/fce306653e1470df26036545128f1595)
 
+56. 190121 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript) 풀이: [정수 제곱근 판별](https://gist.github.com/developersoom/16fd7d4da213a0ec5809b821b07bc62f)
+
+
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
 <br>
