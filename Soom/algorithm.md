@@ -162,6 +162,8 @@
 
 56. 190121 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript) 풀이: [정수 제곱근 판별](https://gist.github.com/developersoom/16fd7d4da213a0ec5809b821b07bc62f)
 
+57. 190122 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) 풀이: [예산](https://gist.github.com/developersoom/fceb7c31b34eccecffa8c335ebb1522f)
+
 
 
 
