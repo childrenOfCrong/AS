@@ -24,4 +24,5 @@ const fun = makeFibonaccci(8);
 for(let i = 0; i < 10; i++) {
   console.log(fun.next());
 }
+//그 코드 spread operator로 동작시켜보기
 
