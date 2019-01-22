@@ -18,3 +18,5 @@
 - 2016 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/2016.js)
 
 - 시저암호 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/caesar_chiper.js)
+
+- PY찾기 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/P_Y.js)
