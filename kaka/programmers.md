@@ -20,3 +20,5 @@
 - 시저암호 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/caesar_chiper.js)
 
 - PY찾기 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/P_Y.js)
+
+- 하샤드수 : [풀이](https://github.com/KaKaFE/Algorithm_practice/blob/master/hashad.js)
