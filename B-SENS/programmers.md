@@ -104,3 +104,4 @@
 1. [같은 숫자는 싫어](https://gist.github.com/pdvonzoo/ecae10827a13a6178b5db6a110460f5a) 19/01/10
 1. [최대값과 최소값](https://gist.github.com/pdvonzoo/6d3c7e2586f8dd1bbdd8a5f2a79737dd) 19/01/21
 1. [최솟값 만들기](https://gist.github.com/pdvonzoo/0b6ae0d95b0cfbb6ec02e5bc10c06228) 19/01/22 
+1. [소수 찾기](https://gist.github.com/pdvonzoo/fc7b9aee12e3ba234d284255e3db28e8) 19/01/23
