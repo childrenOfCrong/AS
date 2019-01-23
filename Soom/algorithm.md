@@ -164,6 +164,9 @@
 
 57. 190122 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) 풀이: [예산](https://gist.github.com/developersoom/fceb7c31b34eccecffa8c335ebb1522f)
 
+58. 190123 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) 풀이: [모의고사](https://gist.github.com/developersoom/26845e1c5fe02812f0ea8871ed3cc738) 하드코딩으로 풀어보려 했지만 실패~ 
+
+
 
 
 
