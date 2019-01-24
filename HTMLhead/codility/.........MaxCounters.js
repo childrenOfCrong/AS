@@ -1,20 +1,23 @@
 function solution(N, A) {
-    let initedAns = new Array(N).fill(0)
-    let ans = new Array(N).fill(0)
-    let bigNum = 0
-    A.forEach(v => {
-        debugger
-        if(v === N + 1) {
-            bigNum = Math.max(...ans)
-            ans = initedAns.slice()
-        } else {
-            ans[v-1]++
-        }
-    })
-    let answer = new Array(N).fill(bigNum)
-    return answer.map((v, i) => {
-        return answer[i] + ans[i]
-    })
+	debugger;
+  let zeroArr = new Array(N).fill(0);
+  let numArr = new Array(N).fill(0);
+  let d = 0;
+  A.forEach(v => {
+    if (v > N) {
+      d += Math.max(...numArr);
+      numArr = zeroArr;
+    } else {
+      numArr[v - 1] += 1;
+    }
+	});
+	let lastIndex = A.lastIndexOf(N+1);
+	let answerArr = new Array(N).fill(d);
+	let lastArr = A.slice(lastIndex+1, A.length);
+	lastArr.forEach(v => {
+		answerArr[v - 1] += 1;
+	})
+  return answerArr;
 }
 
-console.log(solution(5, [3, 4, 4, 6, 1, 4, 4] ))
+console.log(solution(5, [6, 6, 6, 6, 6, 6, 6]));
