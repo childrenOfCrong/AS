@@ -97,6 +97,10 @@
 2019-01-24
 
 - [뉴스 클러스터링](https://gist.github.com/cohily12/a90d81ad261ffc1c31291400cbc4aa00);
+
+2019-01-28 
+
+- [예상 대진표](https://gist.github.com/cohily12/9244710a90237e7d422e60a73d969dfe)
 ---
 
 알고리즘 공부
