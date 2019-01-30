@@ -164,13 +164,10 @@
 
 57. 190122 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) 풀이: [예산](https://gist.github.com/developersoom/fceb7c31b34eccecffa8c335ebb1522f)
 
-
-
-
+58. 190130 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) 풀이: [프린터](https://gist.github.com/developersoom/7639c731132ca9c60eaf7758a42f9560);
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
-<br>
-
+  
 ~~1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
 풀이: [완주하지 못한 선수](https://gist.github.com/developersoom/981929e040b38185f126a46289e67f72)~~
 
@@ -191,7 +188,7 @@
 7. [달리의 문제 1](https://repl.it/@bgando/stack-prompt)
 [달리의 문제 2](https://repl.it/@bgando/queue-prompt)
 
-8. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)
+~~8. 문제: [프린트](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)~~
 
 9. 문제: [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)
 
