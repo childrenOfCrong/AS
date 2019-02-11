@@ -164,7 +164,10 @@
 
 57. 190122 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) 풀이: [예산](https://gist.github.com/developersoom/fceb7c31b34eccecffa8c335ebb1522f)
 
-58. 190130 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) 풀이: [프린터](https://gist.github.com/developersoom/7639c731132ca9c60eaf7758a42f9560);
+58. 190130 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) 풀이: [프린터](https://gist.github.com/developersoom/7639c731132ca9c60eaf7758a42f9560)
+
+59. 190211 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12924?language=javascript) 풀이: [숫자의 표현](https://gist.github.com/developersoom/cd973a06cea8c411a268f34dae1831f6)
+
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
   
