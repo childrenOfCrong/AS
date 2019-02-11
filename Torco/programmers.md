@@ -105,6 +105,10 @@
 2019-02-09
 
 - [구명보트](https://gist.github.com/cohily12/87e9a360884b2e6dec1b7c0529d3529d) 효율성 테스트 통과 X
+
+2019-02-11
+
+- [소수 만들기](https://gist.github.com/cohily12/1e23125b37bdac0e251d25d553210b9e)
 ---
 
 알고리즘 공부
