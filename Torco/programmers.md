@@ -109,6 +109,10 @@
 2019-02-11
 
 - [소수 만들기](https://gist.github.com/cohily12/1e23125b37bdac0e251d25d553210b9e)
+
+2019-02-12
+
+- [최고의 집합](https://gist.github.com/cohily12/9fd7ed89d2bd3ef07fd417a7aba34592)
 ---
 
 알고리즘 공부
