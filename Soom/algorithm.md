@@ -117,7 +117,7 @@
 
 34. 181029 - 문제: [Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) 풀이: [OddOccurrencesInArray](https://gist.github.com/developersoom/7bc533a1fdbc72f4b0fb128203288b2e)
 
-35. 181030 (짝코딩) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) 풀이:[기능개발](https://gist.github.com/developersoom/acad3b5e323e7acee910e128ed72ac65)
+35. 181030 (페어) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) 풀이:[기능개발](https://gist.github.com/developersoom/acad3b5e323e7acee910e128ed72ac65)
 
 36. 181113 - 문제: [Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) 풀이: [PermMissingElem](https://gist.github.com/developersoom/d053921d9b104119f46700dd3a5d1daf)
 
@@ -168,6 +168,7 @@
 
 59. 190211 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12924?language=javascript) 풀이: [숫자의 표현](https://gist.github.com/developersoom/cd973a06cea8c411a268f34dae1831f6)
 
+60. 190212 (페어) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993?language=javascript) 풀이: [스킬트리](https://gist.github.com/developersoom/81c6e99889e05856fe07ca0f55da8983)
 
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
   
