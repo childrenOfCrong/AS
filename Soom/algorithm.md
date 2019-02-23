@@ -170,6 +170,11 @@
 
 60. 190212 (페어) - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993?language=javascript) 풀이: [스킬트리](https://gist.github.com/developersoom/81c6e99889e05856fe07ca0f55da8983)
 
+61. 190223 - 풀이: [데모테스트-직사각형 좌표](https://gist.github.com/developersoom/93d42f35942fed8df989b33534082c49)
+
+62. 190223 - 풀이: [코딩테스트-티셔츠](https://gist.github.com/developersoom/50a2957a3b0bd99c8c0f6fb14ab8af4c)
+
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
   
 ~~1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
