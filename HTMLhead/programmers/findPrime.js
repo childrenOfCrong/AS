@@ -1,4 +1,5 @@
 function solution(n) {
+    debugger;
     var bool = [];
     var primes = [];
     for (let i = 1; i < n; i++) {
