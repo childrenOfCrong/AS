@@ -1,4 +1,5 @@
 function solution(n) {
+  debugger;
   let primeArr = [];
   var bool = [];
   let answer = 0
