@@ -176,6 +176,8 @@
 
 63. 190302 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12981?language=javascript) 풀이: [영어 끝말잇기](https://gist.github.com/developersoom/cd0d4ca63f02833187313c8ff56e3c9d)
 
+64. 190312 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) 풀이: [모의고사](https://gist.github.com/developersoom/5af0217ea4e766442be1b01694395fd3v)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
   
 ~~1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
@@ -208,4 +210,5 @@
 
 12. 문제: [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=javascript) [35.7퍼 나오는 내 풀이](https://gist.github.com/developersoom/6e4734bdb8aa826455feafbf861a532b)
 
-13. 190123 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) 풀이: [모의고사](https://gist.github.com/developersoom/26845e1c5fe02812f0ea8871ed3cc738) // 하드코딩으로 풀어보려 했지만 실패~ 
+~~13. 190123 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) 풀이: [모의고사](https://gist.github.com/developersoom/26845e1c5fe02812f0ea8871ed3cc738) // 하드코딩으로 풀어보려 했지만 실패~~~
+
