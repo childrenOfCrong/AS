@@ -1,7 +1,7 @@
 1. 180913 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12922)
 풀이: [수박수박수박수박수박수?](https://gist.github.com/developersoom/940febbf354650982fe376374d6011e5)
-재풀이: [다시풀기](https://gist.github.com/developersoom/2867992bc1bfbfe6018b96c59a147c98) 04:30
+190315 - [다시풀기](https://gist.github.com/developersoom/2867992bc1bfbfe6018b96c59a147c98)(04:30)
 
 2. 180913 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12916)
