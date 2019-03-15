@@ -106,3 +106,4 @@
 1. [최솟값 만들기](https://gist.github.com/pdvonzoo/0b6ae0d95b0cfbb6ec02e5bc10c06228) 19/01/22 
 1. [소수 찾기](https://gist.github.com/pdvonzoo/fc7b9aee12e3ba234d284255e3db28e8) 19/01/23 
 1. [문자열 내림차순으로 정렬하기](https://gist.github.com/pdvonzoo/bcdeb32e01bc82d0c90f21bcea1a8abc) 19/03/14
+1. [체육복-배열 풀이](https://gist.github.com/pdvonzoo/9170a3c7c1a6319330aaa7973276fbea) 19/03/15
