@@ -6,6 +6,7 @@
 2. 180913 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12916)
 풀이: [문자열 내 p와 y의 개수](https://gist.github.com/developersoom/b5d3c5a9985427b07d16c7703ae167da)
+190319 - [다시풀기](https://gist.github.com/developersoom/59dba490c05147ba16d4baac0ada883c)
 
 3. 180914 - 
 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript)
