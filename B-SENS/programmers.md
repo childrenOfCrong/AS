@@ -112,3 +112,4 @@
 1. [자릿수 더하기](https://gist.github.com/pdvonzoo/e08aa8930280caa9fe8ca0e35aff2809) 19/04/21
 1. [순열 검사](https://gist.github.com/pdvonzoo/71fa82422ef3a7cb16abc7d805e02266) 19/04/21
 1. [나머지 한 점](https://gist.github.com/pdvonzoo/9428c360b2fdbdf04bbd61f9c00831b6) 19/04/21
+1. [Diagonal Difference](https://gist.github.com/pdvonzoo/b77e93f86412cec9adc5efed19727078) 19/04/22
