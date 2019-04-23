@@ -113,4 +113,4 @@
 1. [순열 검사](https://gist.github.com/pdvonzoo/71fa82422ef3a7cb16abc7d805e02266) 19/04/21
 1. [나머지 한 점](https://gist.github.com/pdvonzoo/9428c360b2fdbdf04bbd61f9c00831b6) 19/04/21
 1. [Diagonal Difference](https://gist.github.com/pdvonzoo/b77e93f86412cec9adc5efed19727078) 19/04/22
-1. [TimeConversion](https://gist.github.com/pdvonzoo/27ee7e08147f75525a6a68159ae2461e)
+1. [TimeConversion](https://gist.github.com/pdvonzoo/27ee7e08147f75525a6a68159ae2461e) 19/04/23
