@@ -115,3 +115,4 @@
 1. [Diagonal Difference](https://gist.github.com/pdvonzoo/b77e93f86412cec9adc5efed19727078) 19/04/22
 1. [TimeConversion](https://gist.github.com/pdvonzoo/27ee7e08147f75525a6a68159ae2461e) 19/04/23
 1. [BirthdayCakeCandles](https://gist.github.com/pdvonzoo/b58c385eb7d0f6dbb320de3477f0af63) 19/04/26
+1. [hurdleRace](https://gist.github.com/pdvonzoo/e9ee65f7983772a48ce0302e3f4e458a) 19/05/01
