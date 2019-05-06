@@ -117,3 +117,4 @@
 1. [BirthdayCakeCandles](https://gist.github.com/pdvonzoo/b58c385eb7d0f6dbb320de3477f0af63) 19/04/26
 1. [hurdleRace](https://gist.github.com/pdvonzoo/e9ee65f7983772a48ce0302e3f4e458a) 19/05/01
 1. [sockMerchant](https://gist.github.com/pdvonzoo/3e97f56f4e55c6c83c3884587f02ca58) 19/05/02
+1. [divisibleSumPairs](https://gist.github.com/pdvonzoo/c7b6822c6b74b42d8d2f3061f8c460b2) 19/05/06
