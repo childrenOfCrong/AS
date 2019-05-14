@@ -120,3 +120,4 @@
 1. [divisibleSumPairs](https://gist.github.com/pdvonzoo/c7b6822c6b74b42d8d2f3061f8c460b2) 19/05/06
 1. [angryProfessor](https://gist.github.com/pdvonzoo/18fd73112b9313bee6f47c2b38ccb93a) 19/05/09
 1. [minimumDistances](https://gist.github.com/pdvonzoo/1bdbadeaa4d5bc6d36da0f170dc6a89f) 19/05/10
+1. [equalizeArray](https://gist.github.com/pdvonzoo/1888fa4e0e6d8e02ad386d41cb2339f5) 19/05/14
