@@ -121,3 +121,4 @@
 1. [angryProfessor](https://gist.github.com/pdvonzoo/18fd73112b9313bee6f47c2b38ccb93a) 19/05/09
 1. [minimumDistances](https://gist.github.com/pdvonzoo/1bdbadeaa4d5bc6d36da0f170dc6a89f) 19/05/10
 1. [equalizeArray](https://gist.github.com/pdvonzoo/1888fa4e0e6d8e02ad386d41cb2339f5) 19/05/14
+1. [breakingRecords](https://gist.github.com/pdvonzoo/4b649f3aa15f0df4b776f75607aae5dd) 19/05/20
