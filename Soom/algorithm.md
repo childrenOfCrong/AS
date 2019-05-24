@@ -181,6 +181,8 @@
 
 64. 190312 - 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) 풀이: [모의고사](https://gist.github.com/developersoom/5af0217ea4e766442be1b01694395fd3v)
 
+65. 190524 - 문제: [백준](https://www.acmicpc.net/problem/1929) 풀이: [소수 구하기](https://gist.github.com/developersoom/b2a1f112c526bed8f12a93c4bdd269a5)
+
 ----------------------- 못 푼 문제 & 다시 풀어볼 문제 -----------------------
   
 ~~1. 문제: [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576)
