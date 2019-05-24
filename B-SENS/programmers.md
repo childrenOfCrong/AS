@@ -109,3 +109,18 @@
 1. [체육복-배열 풀이](https://gist.github.com/pdvonzoo/9170a3c7c1a6319330aaa7973276fbea) 19/03/15
 1. [탑](https://gist.github.com/pdvonzoo/bf9c6dd1f387ff4aaad5c32cf0d60f29) 19/03/19
 1. [스킬트리-진행중](https://gist.github.com/pdvonzoo/3f3d7442f80986d61d2618ae9a1d7b02) 19/03/20
+1. [자릿수 더하기](https://gist.github.com/pdvonzoo/e08aa8930280caa9fe8ca0e35aff2809) 19/04/21
+1. [순열 검사](https://gist.github.com/pdvonzoo/71fa82422ef3a7cb16abc7d805e02266) 19/04/21
+1. [나머지 한 점](https://gist.github.com/pdvonzoo/9428c360b2fdbdf04bbd61f9c00831b6) 19/04/21
+1. [Diagonal Difference](https://gist.github.com/pdvonzoo/b77e93f86412cec9adc5efed19727078) 19/04/22
+1. [TimeConversion](https://gist.github.com/pdvonzoo/27ee7e08147f75525a6a68159ae2461e) 19/04/23
+1. [BirthdayCakeCandles](https://gist.github.com/pdvonzoo/b58c385eb7d0f6dbb320de3477f0af63) 19/04/26
+1. [hurdleRace](https://gist.github.com/pdvonzoo/e9ee65f7983772a48ce0302e3f4e458a) 19/05/01
+1. [sockMerchant](https://gist.github.com/pdvonzoo/3e97f56f4e55c6c83c3884587f02ca58) 19/05/02
+1. [divisibleSumPairs](https://gist.github.com/pdvonzoo/c7b6822c6b74b42d8d2f3061f8c460b2) 19/05/06
+1. [angryProfessor](https://gist.github.com/pdvonzoo/18fd73112b9313bee6f47c2b38ccb93a) 19/05/09
+1. [minimumDistances](https://gist.github.com/pdvonzoo/1bdbadeaa4d5bc6d36da0f170dc6a89f) 19/05/10
+1. [equalizeArray](https://gist.github.com/pdvonzoo/1888fa4e0e6d8e02ad386d41cb2339f5) 19/05/14
+1. [breakingRecords](https://gist.github.com/pdvonzoo/4b649f3aa15f0df4b776f75607aae5dd) 19/05/20
+1. [cutTheSticks](https://gist.github.com/pdvonzoo/ea9b0f386eb2acb4498972000e176cec) 19/05/21
+1. [gradingStudents](https://gist.github.com/pdvonzoo/e3775a7b3153f9bb7a45d48dd1a23e29) 19/05/22
