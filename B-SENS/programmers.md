@@ -124,3 +124,4 @@
 1. [breakingRecords](https://gist.github.com/pdvonzoo/4b649f3aa15f0df4b776f75607aae5dd) 19/05/20
 1. [cutTheSticks](https://gist.github.com/pdvonzoo/ea9b0f386eb2acb4498972000e176cec) 19/05/21
 1. [gradingStudents](https://gist.github.com/pdvonzoo/e3775a7b3153f9bb7a45d48dd1a23e29) 19/05/22
+1. [camelcase](https://gist.github.com/pdvonzoo/a873014debd8eb16951a0c75c5106acd) 19/06/03
