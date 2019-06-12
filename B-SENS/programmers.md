@@ -129,3 +129,4 @@
 1. [countingValleys](https://gist.github.com/pdvonzoo/014c1d2a2e3094f3b4741a698c927579) 19/06/05
 1. [beautifulDays](https://gist.github.com/pdvonzoo/f1f4d8827367a2cc72361229bd18edc0) 19/06/09
 1. [utopianTree](https://gist.github.com/pdvonzoo/9a2181d806bf52d3a8c132cb6d4b2a25) 19/06/11
+1. [pangram](https://gist.github.com/pdvonzoo/1018632d7d9c4b8a0a291995d8e45c1a) 19/06/12
