@@ -131,3 +131,4 @@
 1. [utopianTree](https://gist.github.com/pdvonzoo/9a2181d806bf52d3a8c132cb6d4b2a25) 19/06/11
 1. [pangram](https://gist.github.com/pdvonzoo/1018632d7d9c4b8a0a291995d8e45c1a) 19/06/12
 1. [permutationEquation](https://gist.github.com/pdvonzoo/c5beb57b0c5d6788ab35dab9c6228370) 19/06/13
+1. [theLoveLetterMystery](https://gist.github.com/pdvonzoo/3778333ba85d9d282d5face2456237b3) 19/06/14
