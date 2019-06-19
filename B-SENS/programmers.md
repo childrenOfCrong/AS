@@ -135,3 +135,4 @@
 1. [beautifulTriplets](https://gist.github.com/pdvonzoo/fac4b5f8969fff1aac01b16bb530f536) 19/06/16
 1. [repeatedString](https://gist.github.com/pdvonzoo/b30b34a43d385f41c846736997f9d7cd) 19/06/17
 1. [marsExploration](https://gist.github.com/pdvonzoo/2a3f71d5a09e5e9fd546a5cd404fb8bd) 19/06/18
+1. [alternatingCharacters](https://gist.github.com/pdvonzoo/12b981552c1088050f8b84de915405b2) 19/06/19
