@@ -139,3 +139,4 @@
 1. [twoStrings](https://gist.github.com/pdvonzoo/d997c91a527e400e3c7a271a831d4bc4) 19/06/20
 1. [stringConstruction](https://gist.github.com/pdvonzoo/6975b97eca5292c2bb519d81eeee7fe1) 19/06/21
 1. [beautifulBinaryString](https://gist.github.com/pdvonzoo/8c1b67640a499ceff0644fd0e12b6fba) 19/06/23
+1. [hackerrankInString](https://gist.github.com/pdvonzoo/567d87e976465dadb1164612dff98a8b) 19/06/24
