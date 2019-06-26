@@ -141,3 +141,4 @@
 1. [beautifulBinaryString](https://gist.github.com/pdvonzoo/8c1b67640a499ceff0644fd0e12b6fba) 19/06/23
 1. [hackerrankInString](https://gist.github.com/pdvonzoo/567d87e976465dadb1164612dff98a8b) 19/06/24
 1. [caesarCipher](https://gist.github.com/pdvonzoo/917cd1fff2bc11db275f2f9ee667013d) 19/06/25
+1. [올바른 괄호](https://gist.github.com/pdvonzoo/42a6d250409892326fb800816cca986c) 19/06/27
