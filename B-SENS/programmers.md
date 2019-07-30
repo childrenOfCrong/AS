@@ -146,3 +146,4 @@
 1. [프린트]() 19/07/04
 1. [2016년](https://gist.github.com/pdvonzoo/dc3d9cd2dcf5d9f961169c0e6c7f5603) 19/07/09
 1. [가장 작은 수](https://gist.github.com/pdvonzoo/6c83f811d1e65d187902f9b1fb75a780) 19/07/30
+1. [완주하지 못한 선수](https://gist.github.com/pdvonzoo/c2989c065f14dca86b3f31fd8104654b) 19/07/30
