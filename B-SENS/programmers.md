@@ -145,3 +145,4 @@
 1. [쇠막대기](https://gist.github.com/pdvonzoo/6186909ba52892d3219921bdb2d55d0e) 19/06/27
 1. [프린트]() 19/07/04
 1. [2016년](https://gist.github.com/pdvonzoo/dc3d9cd2dcf5d9f961169c0e6c7f5603) 19/07/09
+1. [가장 작은 수](https://gist.github.com/pdvonzoo/6c83f811d1e65d187902f9b1fb75a780) 19/07/30
