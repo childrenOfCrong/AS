@@ -143,8 +143,8 @@
 1. [caesarCipher](https://gist.github.com/pdvonzoo/917cd1fff2bc11db275f2f9ee667013d) 19/06/25
 1. [올바른 괄호](https://gist.github.com/pdvonzoo/42a6d250409892326fb800816cca986c) 19/06/27
 1. [쇠막대기](https://gist.github.com/pdvonzoo/6186909ba52892d3219921bdb2d55d0e) 19/06/27
-1. [프린트]() 19/07/04
 1. [2016년](https://gist.github.com/pdvonzoo/dc3d9cd2dcf5d9f961169c0e6c7f5603) 19/07/09
 1. [가장 작은 수](https://gist.github.com/pdvonzoo/6c83f811d1e65d187902f9b1fb75a780) 19/07/30
 1. [완주하지 못한 선수](https://gist.github.com/pdvonzoo/c2989c065f14dca86b3f31fd8104654b) 19/07/30
 1. [베스트 앨범](https://gist.github.com/pdvonzoo/a348198db38ad384418cfcd0c3767a19) 19/07/31
+1. [프린터](https://gist.github.com/pdvonzoo/c1bb213f4a6da2e705b2af691317c6b2) 19/07/31
